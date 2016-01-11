@@ -1,0 +1,2769 @@
+<REAPER_PROJECT 0.1 "3.66/x64"
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1.00000000000000
+  FEEDBACK 0
+  AUTOMUTE 0 8.00000000000000
+  PANLAW 1.00000000000000
+  PROJOFFS 0.00000000000000 0
+  MAXPROJLEN 0 600.00000000000000
+  GRID 3199 8 1.00000000000000 8 1.00000000000000 0
+  TIMEMODE 1 0 -1
+  CURSOR 86.76923076923077
+  ZOOM 4.61122669093424 0 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30.000000 100 40 1000 300 0 0.000000
+  LOOP 0
+  LOOPGRAN 0 4.00000000000000
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "D:\Rowsdower WIP\git-music\Dm 4-4 git proj\Dm 4-4 git proj mixdown.mp3"
+  RENDER_FMT 0 2 48000
+  RENDER_1X 0
+  RENDER_RANGE 2 1.84615384615385 142.15384615384616
+  RENDER_RESAMPLE 4 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  ITEMMIX 0
+  DEFPITCHMODE 393216
+  TAKELANE 1
+  SAMPLERATE 44100 0
+  <RENDER_CFG
+    bDNwbSAAAAABAAAA/////wQAAAAEAAAAQAEAAAABAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2.000000
+    VOL 0.250000 0.125000
+    FREQ 800 1600
+    BEATLEN 4
+    SAMPLES "" ""
+  >
+  GLOBAL_AUTO -1
+  TEMPO 130.00000000000000 4 4
+  PLAYRATE 1.00000000000000 0 0.25000 4.00000
+  SELECTION 1.84615384615385 142.15384615384616
+  SELECTION2 1.84615384615385 142.15384615384616
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.666700 0.500000 0.500000 -1 -1 -1
+  MASTERHWOUT 0 0 1.00000000000000 0.00000000000000 0 0 0 -1.00000000000000
+  MASTER_NCH 2
+  MASTER_VOLUME 0.99026150277923 0.00000000000000 -1.00000000000000
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    SHOW 0
+    LASTSEL 2
+    DOCKED 0
+    BYPASS 0 0
+    <VST "VST: ReaEQ (Cockos)" "reaeq.dll" 0 ""
+      cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAA==
+      AgAAAAAAAACgAAAAAQAAAAAAEAAhAAAABAAAAAAAAAABAAAAke+xiw==
+      dNQ6QHf2hg1Xz8Y/epMYBFYO3T8BCAAAAAEAAAAfB/ckhhl9QFUK+g==
+      ryCF7D8BAAAAAAAAQAEIAAAAAQAAAK9NZks28aJAXzJYBa908D9JNw==
+      iUFg5fI/AQEAAAABAAAAM3KZQkCnqECvVod6REboP5TC9Shcj/Q/AQ==
+      AQAAAAEAAAAAAAAAAADwPwAAAAA=
+    >
+    FLOATPOS 805 144 721 505
+    FXID {E8681B40-0C21-465D-94C9-74C7F1C4FB8B}
+    WAK 0
+    BYPASS 0 0
+    <VST "VST: ReaComp (Cockos)" "reacomp.dll" 0 ""
+      bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAA==
+      AAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAVAAAAAAAAAAAABAA776t3g==
+      DfCt3p7xMjxTjIU8dXQqPQrXozwAAAAAAAAAAAAAgD8AAAAAAAAAAA==
+      AAAAAMAMHT5lPNE/AAAAAM3MTD0j23k9AAAAAAAAAAAAAAAAAAAAAA==
+    >
+    FLOATPOS 572 111 677 469
+    FXID {DF437C89-F6D4-47D1-A9FF-281022FE0E04}
+    WAK 0
+    BYPASS 0 0
+    <JS "LOSER/masterLimiter" ""
+      -18.200000 200.000000 100.000000 0.000000 250.000000 -0.100000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    >
+    FLOATPOS 719 355 670 251
+    FXID {DF113CE9-4D1F-4AA3-8A4E-0DE3500EA035}
+    WAK 0
+  >
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1.000000
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1.000000
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1
+  >
+  <MASTERVOLENV
+    ACT 0
+    VIS 0 1 1.000000
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0
+  >
+  <MASTERPANENV
+    ACT 0
+    VIS 0 1 1.000000
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0
+  >
+  <MASTERVOLENV2
+    ACT 1
+    VIS 1 1 1.000000
+    LANEHEIGHT 0 0
+    ARM 1
+    DEFSHAPE 0
+    PT 0.000000 0.993289 0
+    PT 118.159136 0.993289 0
+    PT 123.692308 0.310345 0
+    PT 134.769231 0.103448 0 0 1
+    PT 139.384615 0.000000 0
+  >
+  <MASTERPANENV2
+    ACT 0
+    VIS 0 1 1.000000
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0
+  >
+  <TRACK '{533A8F8C-2CF3-4E7B-A751-D57915DC73C8}'
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.00132184204853 0.00000000000000 -1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {533A8F8C-2CF3-4E7B-A751-D57915DC73C8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1
+    <FXCHAIN
+      WNDRECT 353 224 952 495
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0
+      <JS "schwa/midi_humanizer" ""
+        100.000000 0.000000 0.000000 6.750000 1.140000 0.000000 -0.900000 2.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 782 178 670 272
+      FXID {0011818A-0F9E-4F6B-92EB-E6A78D116A58}
+      WAK 0
+      BYPASS 0 0
+      <VST "VSTi: Superior Drummer 2 (x86) (Toontrack) (32 out)" "Superior Drummer.dll" 0 ""
+        MmhmZO5e7f4AAAAAIAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAA==
+        CAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAA==
+        AAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAA==
+        ACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAA==
+        AAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAA==
+        AACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAA==
+        AAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAABMNgAAAQAAAA==
+        AAAQACNWIDIuMi4xCnZlcnNpb24gNApIUSB7CnNvdW5kbGliICJTTA==
+        LUFWQVRBUiIKbWFzdGVydm9sIDAuNgplbmdpbmV2b2wgMC42Cn0KbA==
+        YXlsaW1zIHsKIktpY2siIDYgNiA2CiJTbmFyZSIgNiA2IDYKIkhhdA==
+        cyIgNiA2IDYKIlRvbTEiIDYgNiA2CiJUb20yIiA2IDYgNgoiVG9tMw==
+        IiA2IDYgNgoiVG9tNCIgNiA2IDYKIlRvbTUiIDYgNiA2CiJSaWRlMQ==
+        IiA2IDYgNgoiUmlkZTIiIDYgNiA2CiJSaWRlNCIgNiA2IDYKIlJpZA==
+        ZTUiIDYgNiA2CiJDcmFzaDEiIDYgNiA2CiJDcmFzaDIiIDYgNiA2Cg==
+        IkNyYXNoMyIgNiA2IDYKIkNyYXNoNCIgNiA2IDYKIkNyYXNoNSIgNg==
+        IDYgNgoiQ3Jhc2g2IiA2IDYgNgoiQ293YmVsbCIgNiA2IDYKfQpkcg==
+        dW1zIHsKc3RpY2tzICAiRHJ1bXN0aWNrcyIKa2lja3Rvb2wgIkZlbA==
+        dCIKY3JtYXQgMQoiS2ljayIgIjE4MjJHTVMiCiJTbmFyZSIgIjE0TA==
+        QkIxIgoiSGF0cyIgIjE0SEhYIgoiVG9tMSIgIjEwR01TMSIKIlRvbQ==
+        MiIgIjEyR01TMSIKIlRvbTMiICIiCiJUb200IiAiMTZHTVMxIgoiVA==
+        b201IiAiMThHTVMxIgoiUmlkZTEiICIiCiJSaWRlMiIgIiIKIlJpZA==
+        ZTQiICIyMVJpZGVWaW50YWdlIgoiUmlkZTUiICIiCiJDcmFzaDEiIA==
+        IiIKIkNyYXNoMiIgIjE4U2FiaWFuMiIKIkNyYXNoMyIgIjE4U2FiaQ==
+        YW4zIgoiQ3Jhc2g0IiAiMThTYWJpYW40IgoiQ3Jhc2g1IiAiMThTYQ==
+        YmlhbjUiCiJDcmFzaDYiICIiCiJDb3diZWxsIiAiIgp9CnBhZHMgew==
+        CnBhZCBoYXRzQmVsbFRyaWcgewpjeWNsZSBTIAphbHRlcm5hdGUKdg==
+        ZWx2b2wKc2VuZG5vdGVvZmYKfQpwYWQgaGF0c1RpcFRyaWcgewpjeQ==
+        Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKc2VuZG5vdGVvZmYKfQpwYQ==
+        ZCBoYXRzVHJpZyB7CmN5Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKcw==
+        ZW5kbm90ZW9mZgp9CnBhZCBoYXRzQ3RybCB7CmN5Y2xlIFMgCmFsdA==
+        ZXJuYXRlCnZlbHZvbApzZW5kbm90ZW9mZgp9CnBhZCBzbmFyZVRyaQ==
+        ZyB7CmN5Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKc2VuZG5vdGVvZg==
+        Zgp9CnBhZCBzbmFyZUN0cmwgewpjeWNsZSBTIAphbHRlcm5hdGUKdg==
+        ZWx2b2wKc2VuZG5vdGVvZmYKfQpwYWQga2lja1IgewpjeWNsZSBTIA==
+        CmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgc25hcmVSIHsKY3ljbGUgUw==
+        IAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIHRvbTVSIHsKY3ljbGUgUw==
+        IAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIHRvbTRSIHsKY3ljbGUgUw==
+        IAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIHRvbTNSIHsKY3ljbGUgUw==
+        IAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIHRvbTJSIHsKY3ljbGUgUw==
+        IAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIHRvbTFSIHsKY3ljbGUgUw==
+        IAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIGhhdHNDTCB7CmN5Y2xlIA==
+        UyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCBjcmFzaDEgewpjeWNsZQ==
+        IFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgY3Jhc2gyIHsKY3ljbA==
+        ZSBTIAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIGNyYXNoMyB7CmN5Yw==
+        bGUgUyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCBjcmFzaDQgewpjeQ==
+        Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgY3Jhc2g1IHsKYw==
+        eWNsZSBTIAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIGNyYXNoNiB7Cg==
+        Y3ljbGUgUyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCByaWRlNCB7Cg==
+        Y3ljbGUgUyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCBoYXRzUEwgew==
+        CmN5Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgaGF0c1RQIA==
+        ewpjeWNsZSBTIAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIGhhdHNDVA==
+        IHsKY3ljbGUgUyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCBoYXRzVA==
+        VCB7CmN5Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgaGF0cw==
+        TzUgewpjeWNsZSBTIAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIGhhdA==
+        c080IHsKY3ljbGUgUyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCBoYQ==
+        dHNPMyB7CmN5Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgaA==
+        YXRzTzIgewpjeWNsZSBTIAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIA==
+        aGF0c08xIHsKY3ljbGUgUyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZA==
+        IGhhdHNTUUggewpjeWNsZSBTIAphbHRlcm5hdGUKfQpwYWQgaGF0cw==
+        U1FMIHsKY3ljbGUgUyAKYWx0ZXJuYXRlCn0KcGFkIGhhdHNQTE8gew==
+        CmN5Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgY3Jhc2gxTQ==
+        IHsKY3ljbGUgUyAKYWx0ZXJuYXRlCn0KcGFkIGNyYXNoMk0gewpjeQ==
+        Y2xlIFMgCmFsdGVybmF0ZQp9CnBhZCBjcmFzaDNNIHsKY3ljbGUgUw==
+        IAphbHRlcm5hdGUKfQpwYWQgY3Jhc2g0TSB7CmN5Y2xlIFMgCmFsdA==
+        ZXJuYXRlCn0KcGFkIGNyYXNoNU0gewpjeWNsZSBTIAphbHRlcm5hdA==
+        ZQp9CnBhZCBjcmFzaDZNIHsKY3ljbGUgUyAKYWx0ZXJuYXRlCn0KcA==
+        YWQgcmlkZTRQVSB7CmN5Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQ==
+        CnBhZCByaWRlNEJMIHsKY3ljbGUgUyAKYWx0ZXJuYXRlCnZlbHZvbA==
+        Cn0KcGFkIHJpZGUyUFUgewpjeWNsZSBTIAphbHRlcm5hdGUKdmVsdg==
+        b2wKfQpwYWQgcmlkZTJCTCB7CmN5Y2xlIFMgCmFsdGVybmF0ZQp2ZQ==
+        bHZvbAp9CnBhZCByaWRlMiB7CmN5Y2xlIFMgCmFsdGVybmF0ZQp2ZQ==
+        bHZvbAp9CnBhZCByaWRlNVBVIHsKY3ljbGUgUyAKYWx0ZXJuYXRlCg==
+        dmVsdm9sCn0KcGFkIHJpZGU1QkwgewpjeWNsZSBTIAphbHRlcm5hdA==
+        ZQp2ZWx2b2wKfQpwYWQgcmlkZTUgewpjeWNsZSBTIAphbHRlcm5hdA==
+        ZQp2ZWx2b2wKfQpwYWQgcmlkZTFQVSB7CmN5Y2xlIFMgCmFsdGVybg==
+        YXRlCnZlbHZvbAp9CnBhZCByaWRlMUJMIHsKY3ljbGUgUyAKYWx0ZQ==
+        cm5hdGUKdmVsdm9sCn0KcGFkIHJpZGUxIHsKY3ljbGUgUyAKYWx0ZQ==
+        cm5hdGUKdmVsdm9sCn0KcGFkIGhhdHNCMiB7CmN5Y2xlIFMgCmFsdA==
+        ZXJuYXRlCnZlbHZvbAp9CnBhZCBoYXRzQjEgewpjeWNsZSBTIAphbA==
+        dGVybmF0ZQp2ZWx2b2wKfQpwYWQgaGF0c0JMIHsKY3ljbGUgUyAKYQ==
+        bHRlcm5hdGUKdmVsdm9sCn0KcGFkIHNuYXJlUk8gewpjeWNsZSBTIA==
+        CmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgc25hcmVGTyB7CmN5Y2xlIA==
+        UyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCBzbmFyZVNMIHsKY3ljbA==
+        ZSBTIAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIHNuYXJlRlggewpjeQ==
+        Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgc25hcmVHUiB7Cg==
+        Y3ljbGUgUyAKYWx0ZXJuYXRlCn0KcGFkIHNuYXJlRkwgewpjeWNsZQ==
+        IFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgc25hcmVSRiB7CmN5Yw==
+        bGUgUyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCBzbmFyZVYgewpjeQ==
+        Y2xlIFMgCmFsdGVybmF0ZQp9CnBhZCBzbmFyZU1SIHsKY3ljbGUgUw==
+        IAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIHRvbTVGWCB7CmN5Y2xlIA==
+        UyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCB0b200RlggewpjeWNsZQ==
+        IFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgdG9tM0ZYIHsKY3ljbA==
+        ZSBTIAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIHRvbTJGWCB7CmN5Yw==
+        bGUgUyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCB0b20xRlggewpjeQ==
+        Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgdG9tNVJPIHsKYw==
+        eWNsZSBTIAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIHRvbTRSTyB7Cg==
+        Y3ljbGUgUyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCB0b20zUk8gew==
+        CmN5Y2xlIFMgCmFsdGVybmF0ZQp2ZWx2b2wKfQpwYWQgdG9tMlJPIA==
+        ewpjeWNsZSBTIAphbHRlcm5hdGUKdmVsdm9sCn0KcGFkIHRvbTFSTw==
+        IHsKY3ljbGUgUyAKYWx0ZXJuYXRlCnZlbHZvbAp9CnBhZCBDb3diZQ==
+        bGwgewpjeWNsZSBTIAphbHRlcm5hdGUKdmVsdm9sCn0KfQpwYWRzbw==
+        ZnR2ZWwgewp9CnBhZHBhZHZvbCB7CnBhZCBzbmFyZVYgewpwdm9sdQ==
+        bWUgMwp9Cn0KcGFkcG9seSB7CnBhZCBoYXRzQmVsbFRyaWcgewptYQ==
+        eHBvbHkgNAp9CnBhZCBoYXRzVGlwVHJpZyB7Cm1heHBvbHkgNAp9Cg==
+        cGFkIGhhdHNUcmlnIHsKbWF4cG9seSA0Cn0KcGFkIGhhdHNDdHJsIA==
+        ewptYXhwb2x5IDQKfQpwYWQgc25hcmVUcmlnIHsKbWF4cG9seSA0Cg==
+        fQpwYWQgc25hcmVDdHJsIHsKbWF4cG9seSA0Cn0KcGFkIGtpY2tSIA==
+        ewptYXhwb2x5IDQKfQpwYWQgc25hcmVSIHsKbWF4cG9seSA0Cn0KcA==
+        YWQgdG9tNVIgewptYXhwb2x5IDQKfQpwYWQgdG9tNFIgewptYXhwbw==
+        bHkgNAp9CnBhZCB0b20zUiB7Cm1heHBvbHkgNAp9CnBhZCB0b20yUg==
+        IHsKbWF4cG9seSA0Cn0KcGFkIHRvbTFSIHsKbWF4cG9seSA0Cn0KcA==
+        YWQgaGF0c0NMIHsKbWF4cG9seSA0Cn0KcGFkIGNyYXNoMSB7Cm1heA==
+        cG9seSA0Cn0KcGFkIGNyYXNoMiB7Cm1heHBvbHkgNAp9CnBhZCBjcg==
+        YXNoMyB7Cm1heHBvbHkgNAp9CnBhZCBjcmFzaDQgewptYXhwb2x5IA==
+        NAp9CnBhZCBjcmFzaDUgewptYXhwb2x5IDQKfQpwYWQgY3Jhc2g2IA==
+        ewptYXhwb2x5IDQKfQpwYWQgcmlkZTQgewptYXhwb2x5IDQKfQpwYQ==
+        ZCBoYXRzUEwgewptYXhwb2x5IDQKfQpwYWQgaGF0c1RQIHsKbWF4cA==
+        b2x5IDQKfQpwYWQgaGF0c0NUIHsKbWF4cG9seSA0Cn0KcGFkIGhhdA==
+        c1RUIHsKbWF4cG9seSA0Cn0KcGFkIGhhdHNPNSB7Cm1heHBvbHkgNA==
+        Cn0KcGFkIGhhdHNPNCB7Cm1heHBvbHkgNAp9CnBhZCBoYXRzTzMgew==
+        Cm1heHBvbHkgNAp9CnBhZCBoYXRzTzIgewptYXhwb2x5IDQKfQpwYQ==
+        ZCBoYXRzTzEgewptYXhwb2x5IDQKfQpwYWQgaGF0c1NRSCB7Cm1heA==
+        cG9seSA0Cn0KcGFkIGhhdHNTUUwgewptYXhwb2x5IDQKfQpwYWQgaA==
+        YXRzUExPIHsKbWF4cG9seSA0Cn0KcGFkIGNyYXNoMU0gewptYXhwbw==
+        bHkgNAp9CnBhZCBjcmFzaDJNIHsKbWF4cG9seSA0Cn0KcGFkIGNyYQ==
+        c2gzTSB7Cm1heHBvbHkgNAp9CnBhZCBjcmFzaDRNIHsKbWF4cG9seQ==
+        IDQKfQpwYWQgY3Jhc2g1TSB7Cm1heHBvbHkgNAp9CnBhZCBjcmFzaA==
+        Nk0gewptYXhwb2x5IDQKfQpwYWQgcmlkZTRQVSB7Cm1heHBvbHkgNA==
+        Cn0KcGFkIHJpZGU0QkwgewptYXhwb2x5IDQKfQpwYWQgcmlkZTJQVQ==
+        IHsKbWF4cG9seSA0Cn0KcGFkIHJpZGUyQkwgewptYXhwb2x5IDQKfQ==
+        CnBhZCByaWRlMiB7Cm1heHBvbHkgNAp9CnBhZCByaWRlNVBVIHsKbQ==
+        YXhwb2x5IDQKfQpwYWQgcmlkZTVCTCB7Cm1heHBvbHkgNAp9CnBhZA==
+        IHJpZGU1IHsKbWF4cG9seSA0Cn0KcGFkIHJpZGUxUFUgewptYXhwbw==
+        bHkgNAp9CnBhZCByaWRlMUJMIHsKbWF4cG9seSA0Cn0KcGFkIHJpZA==
+        ZTEgewptYXhwb2x5IDQKfQpwYWQgaGF0c0IyIHsKbWF4cG9seSA0Cg==
+        fQpwYWQgaGF0c0IxIHsKbWF4cG9seSA0Cn0KcGFkIGhhdHNCTCB7Cg==
+        bWF4cG9seSA0Cn0KcGFkIHNuYXJlUk8gewptYXhwb2x5IDQKfQpwYQ==
+        ZCBzbmFyZUZPIHsKbWF4cG9seSA0Cn0KcGFkIHNuYXJlU0wgewptYQ==
+        eHBvbHkgNAp9CnBhZCBzbmFyZUZYIHsKbWF4cG9seSA0Cn0KcGFkIA==
+        c25hcmVHUiB7Cm1heHBvbHkgNAp9CnBhZCBzbmFyZUZMIHsKbWF4cA==
+        b2x5IDQKfQpwYWQgc25hcmVSRiB7Cm1heHBvbHkgNAp9CnBhZCBzbg==
+        YXJlViB7Cm1heHBvbHkgNAp9CnBhZCBzbmFyZU1SIHsKbWF4cG9seQ==
+        IDQKfQpwYWQgdG9tNUZYIHsKbWF4cG9seSA0Cn0KcGFkIHRvbTRGWA==
+        IHsKbWF4cG9seSA0Cn0KcGFkIHRvbTNGWCB7Cm1heHBvbHkgNAp9Cg==
+        cGFkIHRvbTJGWCB7Cm1heHBvbHkgNAp9CnBhZCB0b20xRlggewptYQ==
+        eHBvbHkgNAp9CnBhZCB0b201Uk8gewptYXhwb2x5IDQKfQpwYWQgdA==
+        b200Uk8gewptYXhwb2x5IDQKfQpwYWQgdG9tM1JPIHsKbWF4cG9seQ==
+        IDQKfQpwYWQgdG9tMlJPIHsKbWF4cG9seSA0Cn0KcGFkIHRvbTFSTw==
+        IHsKbWF4cG9seSA0Cn0KcGFkIENvd2JlbGwgewptYXhwb2x5IDQKfQ==
+        Cn0KdXNhZ2UgewoiS2ljayIgIktpY2siICJLaWNrRXh0IiAiS2ljaw==
+        U3ViIiAiU25hcmVCb3R0b20iICJPaCIgIk9oUiIgIkFtYk5lYXJDbw==
+        bXAiICJBbWJOZWFyQ29tcFIiCiJTbmFyZSIgIlNuYXJlVG9wIiAiUw==
+        bmFyZUJvdHRvbSIgIlNuYXJlRlgiICJPaCIgIk9oUiIgIkFtYk5lYQ==
+        ckNvbXAiICJBbWJOZWFyQ29tcFIiCiJIYXRzIiAiSGF0cyIgIk9oIg==
+        ICJPaFIiICJBbWJOZWFyQ29tcCIgIkFtYk5lYXJDb21wUiIKIlRvbQ==
+        MSIgIlNuYXJlQm90dG9tIiAiVG9tMSIgIk9oIiAiT2hSIiAiQW1iTg==
+        ZWFyQ29tcCIgIkFtYk5lYXJDb21wUiIKIlRvbTIiICJTbmFyZUJvdA==
+        dG9tIiAiVG9tMiIgIk9oIiAiT2hSIiAiQW1iTmVhckNvbXAiICJBbQ==
+        Yk5lYXJDb21wUiIKIlRvbTMiICJTbmFyZUJvdHRvbSIgIlRvbTMiIA==
+        Ik9oIiAiT2hSIiAiQW1iTmVhckNvbXAiICJBbWJOZWFyQ29tcFIiCg==
+        IlRvbTQiICJTbmFyZUJvdHRvbSIgIlRvbTQiICJPaCIgIk9oUiIgIg==
+        QW1iTmVhckNvbXAiICJBbWJOZWFyQ29tcFIiCiJUb201IiAiU25hcg==
+        ZUJvdHRvbSIgIlRvbTUiICJPaCIgIk9oUiIgIkFtYk5lYXJDb21wIg==
+        ICJBbWJOZWFyQ29tcFIiCiJSaWRlMSIgIk9oIiAiT2hSIiAiQW1iTg==
+        ZWFyQ29tcCIgIkFtYk5lYXJDb21wUiIKIlJpZGUyIiAiT2giICJPaA==
+        UiIgIkFtYk5lYXJDb21wIiAiQW1iTmVhckNvbXBSIgoiUmlkZTQiIA==
+        Ik9oIiAiT2hSIiAiQW1iTmVhckNvbXAiICJBbWJOZWFyQ29tcFIiCg==
+        IlJpZGU1IiAiT2giICJPaFIiICJBbWJOZWFyQ29tcCIgIkFtYk5lYQ==
+        ckNvbXBSIgoiQ3Jhc2gxIiAiT2giICJPaFIiICJBbWJOZWFyQ29tcA==
+        IiAiQW1iTmVhckNvbXBSIgoiQ3Jhc2gyIiAiT2giICJPaFIiICJBbQ==
+        Yk5lYXJDb21wIiAiQW1iTmVhckNvbXBSIgoiQ3Jhc2gzIiAiT2giIA==
+        Ik9oUiIgIkFtYk5lYXJDb21wIiAiQW1iTmVhckNvbXBSIgoiQ3Jhcw==
+        aDQiICJPaCIgIk9oUiIgIkFtYk5lYXJDb21wIiAiQW1iTmVhckNvbQ==
+        cFIiCiJDcmFzaDUiICJPaCIgIk9oUiIgIkFtYk5lYXJDb21wIiAiQQ==
+        bWJOZWFyQ29tcFIiCiJDcmFzaDYiICJPaCIgIk9oUiIgIkFtYk5lYQ==
+        ckNvbXAiICJBbWJOZWFyQ29tcFIiCiJDb3diZWxsIiAiT2giICJPaA==
+        UiIgIkFtYk5lYXJDb21wIiAiQW1iTmVhckNvbXBSIgp9CmJsZWVkIA==
+        ewp9CnBhZHNvdW5kIHsKcGFkIHNuYXJlR1IgewpmYWRlc3RhcnQgMA==
+        CmZhZGV0aW1lIDAuNwp9CnBhZCBzbmFyZVJGIHsKZmFkZXN0YXJ0IA==
+        MApmYWRldGltZSAwLjIKfQpwYWQgc25hcmVWIHsKZmFkZSAxCmZhZA==
+        ZXN0YXJ0IDAKZmFkZXRpbWUgMC4yNQp9Cn0KcGFkcGl0Y2ggewp9Cg==
+        bWlkaSB7Cm4gMjAgMjAgOQpuIDE5IDE5IDgKbiAxOCAxOCA3Cm4gMQ==
+        MzIgMTMyIENDMQpuIDYgNgpuIDE0NCAxNDQKbiAzNiAzNiAzNCAzNQ==
+        Cm4gMzggMzggMTI1Cm4gNDEgNDEgNSA3MgpuIDQzIDQzIDQgNzQKbg==
+        IDQ1IDQ1IDMgNzcKbiA0NyA0NyAyIDc5Cm4gNDggNDggMSA1MCA4MQ==
+        Cm4gMjIgMjIgMTEgMTIyCm4gNTIgNTIgMjcKbiA0OSA0OSAyOApuIA==
+        NTUgNTUgMjkKbiAzMCAzMApuIDU3IDU3IDMxCm4gMzIgMzIKbiA1MQ==
+        IDUxIDEwMSAxMDQgMTA1IDEwOCAxMTEgMTEyIDExMyAxMTYgMTE3Cg==
+        biAyMSAyMSAxMCA0NApuIDQyIDQyIDYxCm4gNjIgNjIKbiA2MyA2Mw==
+        Cm4gMTcgMTcgMTYKbiA2MCA2MCAxNQpuIDI2IDI2IDE0IDEyNApuIA==
+        MjUgMjUgMTMgNDYKbiAyNCAyNCAxMiAxMjMKbiA2NCA2NApuIDY1IA==
+        NjUKbiAyMyAyMwpuIDgzIDgzCm4gNTQgNTQgOTQKbiA5NSA5NQpuIA==
+        MTA2IDEwNgpuIDU4IDU4IDEwNwpuIDExOCAxMTgKbiA1OSA1OSAxMA==
+        MyAxMTAgMTE1Cm4gNTMgNTMgMTAyIDEwOSAxMTQKbiA5MSA5MSA4Ng==
+        IDk4Cm4gOTAgOTAgODUgOTcKbiA4OSA4OSA4NCA4NyA4OCA5MiA5Mw==
+        IDk2IDk5IDEwMApuIDEyMSAxMjEKbiAxMjAgMTIwCm4gMTE5IDExOQ==
+        Cm4gNzEgNzEKbiAzMyAzMwpuIDM3IDM3IDEyNwpuIDQwIDQwIDEyNg==
+        Cm4gNzAgNzAKbiA2OSA2OQpuIDM5IDM5Cm4gNjcgNjcKbiA2OCA2OA==
+        IDY2Cm4gNzMgNzMKbiA3NSA3NQpuIDc4IDc4Cm4gODAgODAKbiA4Mg==
+        IDgyCm4gNTYgNTYgNzYKfQptaXhlciB7CktpY2sgewpwYW4gMC41Cg==
+        dm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKbm9ibGVlZCAwCnh0cmFmYQ==
+        ZGUgMApsZWFrdm9sIDEKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KSw==
+        aWNrRXh0IHsKcGFuIDAuNQp2b2x1bWUgMC41ODc4MDIKcGhhc2VyZQ==
+        dmVyc2UgMApub2JsZWVkIDAKeHRyYWZhZGUgMApsZWFrdm9sIDEKcw==
+        b2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpLaWNrU3ViIHsKcGFuIDAuNQ==
+        CnZvbHVtZSAwLjIwMzA5MgpwaGFzZXJldmVyc2UgMApub2JsZWVkIA==
+        MAp4dHJhZmFkZSAwCmxlYWt2b2wgMQpzb2xvIDAKbXV0ZSAwCnJvdQ==
+        dGUgMAp9ClNuYXJlVG9wIHsKcGFuIDAuNQp2b2x1bWUgMC42ODkzOA==
+        NApwaGFzZXJldmVyc2UgMApub2JsZWVkIDAKeHRyYWZhZGUgMApsZQ==
+        YWt2b2wgMQpzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpTbmFyZUJvdA==
+        dG9tIHsKcGFuIDAuNQp2b2x1bWUgMC42ODkzODQKcGhhc2VyZXZlcg==
+        c2UgMApub2JsZWVkIDAKeHRyYWZhZGUgMApsZWFrdm9sIDEKc29sbw==
+        IDAKbXV0ZSAwCnJvdXRlIDAKfQpTbmFyZUZYIHsKcGFuIDAuNQp2bw==
+        bHVtZSAwLjY4OTM4NApwaGFzZXJldmVyc2UgMApub2JsZWVkIDAKeA==
+        dHJhZmFkZSAwCmxlYWt2b2wgMQpzb2xvIDAKbXV0ZSAwCnJvdXRlIA==
+        MAp9CkhhdHMgewpwYW4gMC4zNzUKdm9sdW1lIDAuMDg2Nzg4NApwaA==
+        YXNlcmV2ZXJzZSAwCm5vYmxlZWQgMAp4dHJhZmFkZSAwCmxlYWt2bw==
+        bCAxCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9ClRvbTEgewpwYW4gMA==
+        LjA3NjExMTEKdm9sdW1lIDEuMDU0NTcKcGhhc2VyZXZlcnNlIDAKbg==
+        b2JsZWVkIDAKeHRyYWZhZGUgMApsZWFrdm9sIDEKc29sbyAwCm11dA==
+        ZSAwCnJvdXRlIDAKfQpUb20yIHsKcGFuIDAuMjUxNQp2b2x1bWUgMQ==
+        LjA1NDU3CnBoYXNlcmV2ZXJzZSAwCm5vYmxlZWQgMAp4dHJhZmFkZQ==
+        IDAKbGVha3ZvbCAxCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9ClRvbQ==
+        MyB7CnBhbiAwLjUKdm9sdW1lIDEuMDU0NTcKcGhhc2VyZXZlcnNlIA==
+        MApub2JsZWVkIDAKeHRyYWZhZGUgMApsZWFrdm9sIDEKc29sbyAwCg==
+        bXV0ZSAwCnJvdXRlIDAKfQpUb200IHsKcGFuIDAuNzUKdm9sdW1lIA==
+        MC44NTI2NDYKcGhhc2VyZXZlcnNlIDAKbm9ibGVlZCAwCnh0cmFmYQ==
+        ZGUgMApsZWFrdm9sIDEKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KVA==
+        b201IHsKcGFuIDAuOTI1NTU2CnZvbHVtZSAxLjc5NDA5CnBoYXNlcg==
+        ZXZlcnNlIDAKbm9ibGVlZCAwCnh0cmFmYWRlIDAKbGVha3ZvbCAxCg==
+        c29sbyAwCm11dGUgMApyb3V0ZSAwCn0KT2ggewpwYW4gMAp2b2x1bQ==
+        ZSAwLjY4OTM4NApwaGFzZXJldmVyc2UgMApub2JsZWVkIDAKeHRyYQ==
+        ZmFkZSAwCmxlYWt2b2wgMQpzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQ==
+        Ck9oUiB7CnBhbiAxCnZvbHVtZSAwLjY4OTM4NApwaGFzZXJldmVycw==
+        ZSAwCm5vYmxlZWQgMAp4dHJhZmFkZSAwCmxlYWt2b2wgMQpzb2xvIA==
+        MAptdXRlIDAKcm91dGUgMAp9CkFtYk5lYXJDb21wIHsKcGFuIDAKdg==
+        b2x1bWUgMC4yOTQ1OTgKcGhhc2VyZXZlcnNlIDAKbm9ibGVlZCAwCg==
+        eHRyYWZhZGUgMApsZWFrdm9sIDEKc29sbyAwCm11dGUgMApyb3V0ZQ==
+        IDAKfQpBbWJOZWFyQ29tcFIgewpwYW4gMQp2b2x1bWUgMC4yOTQ1OQ==
+        OApwaGFzZXJldmVyc2UgMApub2JsZWVkIDAKeHRyYWZhZGUgMApsZQ==
+        YWt2b2wgMQpzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpBbWJNaWRDbw==
+        bXAgewpwYW4gMAp2b2x1bWUgMC4wNTk4MzA2CnBoYXNlcmV2ZXJzZQ==
+        IDAKbm9ibGVlZCAwCnh0cmFmYWRlIDAKbGVha3ZvbCAxCnNvbG8gMA==
+        Cm11dGUgMApyb3V0ZSAwCn0KQW1iTWlkQ29tcFIgewpwYW4gMQp2bw==
+        bHVtZSAwLjA1OTgzMDUKcGhhc2VyZXZlcnNlIDAKbm9ibGVlZCAwCg==
+        eHRyYWZhZGUgMApsZWFrdm9sIDEKc29sbyAwCm11dGUgMApyb3V0ZQ==
+        IDAKfQpBbWJGYXJDb21wIHsKcGFuIDAKdm9sdW1lIDAuMDk1MDU1OA==
+        CnBoYXNlcmV2ZXJzZSAwCm5vYmxlZWQgMAp4dHJhZmFkZSAwCmxlYQ==
+        a3ZvbCAxCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CkFtYkZhckNvbQ==
+        cFIgewpwYW4gMQp2b2x1bWUgMC4wOTUwNTU3CnBoYXNlcmV2ZXJzZQ==
+        IDAKbm9ibGVlZCAwCnh0cmFmYWRlIDAKbGVha3ZvbCAxCnNvbG8gMA==
+        Cm11dGUgMApyb3V0ZSAwCn0KQW1iQnJhdW5lciB7CnBhbiAwLjUKdg==
+        b2x1bWUgMC4wOTUwNTU4CnBoYXNlcmV2ZXJzZSAwCm5vYmxlZWQgMA==
+        Cnh0cmFmYWRlIDAKbGVha3ZvbCAxCnNvbG8gMAptdXRlIDAKcm91dA==
+        ZSAwCn0KQW1iQnVsbGV0IHsKcGFuIDAuNQp2b2x1bWUgMApwaGFzZQ==
+        cmV2ZXJzZSAwCm5vYmxlZWQgMAp4dHJhZmFkZSAwCmxlYWt2b2wgMQ==
+        CnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMCB7CnBhbiAwCg==
+        dm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApybw==
+        dXRlIC0xCn0KYnVzcyAxIHsKcGFuIDEKdm9sdW1lIDEKcGhhc2VyZQ==
+        dmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIC0xCn0KYnVzcyAyIA==
+        ewpwYW4gMAp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbQ==
+        dXRlIDAKcm91dGUgLTEKfQpidXNzIDMgewpwYW4gMQp2b2x1bWUgMQ==
+        CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgLTEKfQ==
+        CmJ1c3MgNCB7CnBhbiAwCnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCg==
+        c29sbyAwCm11dGUgMApyb3V0ZSAtMQp9CmJ1c3MgNSB7CnBhbiAxCg==
+        dm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApybw==
+        dXRlIC0xCn0KYnVzcyA2IHsKcGFuIDAKdm9sdW1lIDEKcGhhc2VyZQ==
+        dmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIC0xCn0KYnVzcyA3IA==
+        ewpwYW4gMQp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbQ==
+        dXRlIDAKcm91dGUgLTEKfQpidXNzIDggewpwYW4gMAp2b2x1bWUgMQ==
+        CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgLTEKfQ==
+        CmJ1c3MgOSB7CnBhbiAxCnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCg==
+        c29sbyAwCm11dGUgMApyb3V0ZSAtMQp9CmJ1c3MgMTAgewpwYW4gMA==
+        CnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcg==
+        b3V0ZSAtMQp9CmJ1c3MgMTEgewpwYW4gMQp2b2x1bWUgMQpwaGFzZQ==
+        cmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgLTEKfQpidXNzIA==
+        MTIgewpwYW4gMAp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIA==
+        MAptdXRlIDAKcm91dGUgLTEKfQpidXNzIDEzIHsKcGFuIDEKdm9sdQ==
+        bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIA==
+        LTEKfQpidXNzIDE0IHsKcGFuIDAKdm9sdW1lIDEKcGhhc2VyZXZlcg==
+        c2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIC0xCn0KYnVzcyAxNSB7Cg==
+        cGFuIDEKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dA==
+        ZSAwCnJvdXRlIC0xCn0KYnVzcyAxNiB7CnBhbiAwCnZvbHVtZSAxCg==
+        cGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAtMQp9Cg==
+        YnVzcyAxNyB7CnBhbiAxCnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCg==
+        c29sbyAwCm11dGUgMApyb3V0ZSAtMQp9CmJ1c3MgMTggewpwYW4gMA==
+        CnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcg==
+        b3V0ZSAtMQp9CmJ1c3MgMTkgewpwYW4gMQp2b2x1bWUgMQpwaGFzZQ==
+        cmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgLTEKfQpidXNzIA==
+        MjAgewpwYW4gMAp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIA==
+        MAptdXRlIDAKcm91dGUgLTEKfQpidXNzIDIxIHsKcGFuIDEKdm9sdQ==
+        bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIA==
+        LTEKfQpidXNzIDIyIHsKcGFuIDAKdm9sdW1lIDEKcGhhc2VyZXZlcg==
+        c2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIC0xCn0KYnVzcyAyMyB7Cg==
+        cGFuIDEKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dA==
+        ZSAwCnJvdXRlIC0xCn0KYnVzcyAyNCB7CnBhbiAwCnZvbHVtZSAxCg==
+        cGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAtMQp9Cg==
+        YnVzcyAyNSB7CnBhbiAxCnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCg==
+        c29sbyAwCm11dGUgMApyb3V0ZSAtMQp9CmJ1c3MgMjYgewpwYW4gMA==
+        CnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcg==
+        b3V0ZSAtMQp9CmJ1c3MgMjcgewpwYW4gMQp2b2x1bWUgMQpwaGFzZQ==
+        cmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgLTEKfQpidXNzIA==
+        MjggewpwYW4gMAp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIA==
+        MAptdXRlIDAKcm91dGUgLTEKfQpidXNzIDI5IHsKcGFuIDEKdm9sdQ==
+        bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIA==
+        LTEKfQpidXNzIDMwIHsKcGFuIDAKdm9sdW1lIDEKcGhhc2VyZXZlcg==
+        c2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIC0xCn0KYnVzcyAzMSB7Cg==
+        cGFuIDEKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dA==
+        ZSAwCnJvdXRlIC0xCn0Kb3V0cHV0IDAgewpwYW4gMAp2b2x1bWUgMQ==
+        CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKfQpvdXRwdXQgMQ==
+        IHsKcGFuIDEKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCg==
+        bXV0ZSAwCn0Kb3V0cHV0IDIgewpwYW4gMAp2b2x1bWUgMQpwaGFzZQ==
+        cmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKfQpvdXRwdXQgMyB7CnBhbg==
+        IDEKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMA==
+        Cn0Kb3V0cHV0IDQgewpwYW4gMAp2b2x1bWUgMQpwaGFzZXJldmVycw==
+        ZSAwCnNvbG8gMAptdXRlIDAKfQpvdXRwdXQgNSB7CnBhbiAxCnZvbA==
+        dW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMAp9Cm91dA==
+        cHV0IDYgewpwYW4gMAp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzbw==
+        bG8gMAptdXRlIDAKfQpvdXRwdXQgNyB7CnBhbiAxCnZvbHVtZSAxCg==
+        cGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMAp9Cm91dHB1dCA4IA==
+        ewpwYW4gMAp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbQ==
+        dXRlIDAKfQpvdXRwdXQgOSB7CnBhbiAxCnZvbHVtZSAxCnBoYXNlcg==
+        ZXZlcnNlIDAKc29sbyAwCm11dGUgMAp9Cm91dHB1dCAxMCB7CnBhbg==
+        IDAKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMA==
+        Cn0Kb3V0cHV0IDExIHsKcGFuIDEKdm9sdW1lIDEKcGhhc2VyZXZlcg==
+        c2UgMApzb2xvIDAKbXV0ZSAwCn0Kb3V0cHV0IDEyIHsKcGFuIDAKdg==
+        b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCn0Kbw==
+        dXRwdXQgMTMgewpwYW4gMQp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMA==
+        CnNvbG8gMAptdXRlIDAKfQpvdXRwdXQgMTQgewpwYW4gMAp2b2x1bQ==
+        ZSAxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKfQpvdXRwdQ==
+        dCAxNSB7CnBhbiAxCnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCnNvbA==
+        byAwCm11dGUgMAp9Cm91dHB1dCAxNiB7CnBhbiAwCnZvbHVtZSAxCg==
+        cGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMAp9Cm91dHB1dCAxNw==
+        IHsKcGFuIDEKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCg==
+        bXV0ZSAwCn0Kb3V0cHV0IDE4IHsKcGFuIDAKdm9sdW1lIDEKcGhhcw==
+        ZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCn0Kb3V0cHV0IDE5IHsKcA==
+        YW4gMQp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZQ==
+        IDAKfQpvdXRwdXQgMjAgewpwYW4gMAp2b2x1bWUgMQpwaGFzZXJldg==
+        ZXJzZSAwCnNvbG8gMAptdXRlIDAKfQpvdXRwdXQgMjEgewpwYW4gMQ==
+        CnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKfQ==
+        Cm91dHB1dCAyMiB7CnBhbiAwCnZvbHVtZSAxCnBoYXNlcmV2ZXJzZQ==
+        IDAKc29sbyAwCm11dGUgMAp9Cm91dHB1dCAyMyB7CnBhbiAxCnZvbA==
+        dW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMAp9Cm91dA==
+        cHV0IDI0IHsKcGFuIDAKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKcw==
+        b2xvIDAKbXV0ZSAwCn0Kb3V0cHV0IDI1IHsKcGFuIDEKdm9sdW1lIA==
+        MQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCn0Kb3V0cHV0IA==
+        MjYgewpwYW4gMAp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIA==
+        MAptdXRlIDAKfQpvdXRwdXQgMjcgewpwYW4gMQp2b2x1bWUgMQpwaA==
+        YXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKfQpvdXRwdXQgMjggew==
+        CnBhbiAwCnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdQ==
+        dGUgMAp9Cm91dHB1dCAyOSB7CnBhbiAxCnZvbHVtZSAxCnBoYXNlcg==
+        ZXZlcnNlIDAKc29sbyAwCm11dGUgMAp9Cm91dHB1dCAzMCB7CnBhbg==
+        IDAKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMA==
+        Cn0Kb3V0cHV0IDMxIHsKcGFuIDEKdm9sdW1lIDEKcGhhc2VyZXZlcg==
+        c2UgMApzb2xvIDAKbXV0ZSAwCn0KfQoA
+      >
+      FLOATPOS 23 23 391 249
+      FXID {EEA0E7E6-1DA4-4EE4-A69E-2D3E8ECE336E}
+      WAK 0
+      BYPASS 0 0
+      <VST "VST: ReaVerbate (Cockos)" "reaverbate.dll" 0 ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAA==
+        AgAAAAAAAAAoAAAAAAAAAAAAEADvvq3eDfCt3vFDNj/Unlo/l5aWPg==
+        AAAAPwAAgD8AAAAAAACAPwAAAAA=
+      >
+      FLOATPOS 622 152 573 357
+      FXID {833E7888-1884-4C6A-A6CE-49D253CE00C7}
+      WAK 0
+    >
+    <ITEM
+      POSITION 1.84615384615385
+      SNAPOFFS 0.00000000000000
+      LENGTH 138.76923076923077
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.000000 0.000000
+      FADEOUT 1 0.000000 0.000000
+      MUTE 0
+      IGUID {A092D0ED-C808-4DED-9209-0BF74CC3C415}
+      NAME "untitled MIDI item"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 1.84615384615385 4.00000000000001
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {122CA074-A626-4B09-B9CE-B7616EB0B289}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        E 0 90 1a 7f
+        E 360 80 1a 00
+        E 600 90 1a 7f
+        E 360 80 1a 00
+        E 600 90 1a 7f
+        E 360 80 1a 00
+        E 600 90 1a 7f
+        E 360 80 1a 00
+        E 600 90 1c 7f
+        E 0 90 24 7f
+        E 360 80 1c 00
+        E 0 80 24 00
+        E 600 90 19 7f
+        E 360 80 19 00
+        E 280 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 27 7f
+        E 160 80 19 00
+        E 0 80 27 00
+        E 800 90 19 7f
+        E 160 80 19 00
+        E 480 90 26 7f
+        E 160 80 26 00
+        E 160 90 1a 7f
+        E 0 90 24 7f
+        E 160 80 1a 00
+        E 0 80 24 00
+        E 800 90 19 7f
+        E 0 90 24 7f
+        E 160 80 19 00
+        E 0 80 24 00
+        E 480 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 26 7f
+        E 160 80 19 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 160 90 35 7f
+        E 160 80 35 00
+        E 160 90 16 7f
+        E 160 80 16 00
+        E 160 90 1c 7f
+        E 0 90 24 7f
+        E 360 80 1c 00
+        E 0 80 24 00
+        E 600 90 19 7f
+        E 360 80 19 00
+        E 280 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 27 7f
+        E 160 80 19 00
+        E 0 80 27 00
+        E 800 90 19 7f
+        E 160 80 19 00
+        E 480 90 26 7f
+        E 160 80 26 00
+        E 160 90 1a 7f
+        E 0 90 24 7f
+        E 160 80 1a 00
+        E 0 80 24 00
+        E 800 90 19 7f
+        E 0 90 24 7f
+        E 160 80 19 00
+        E 0 80 24 00
+        E 480 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 26 7f
+        E 160 80 19 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 160 90 35 7f
+        E 160 80 35 00
+        E 160 90 16 7f
+        E 160 80 16 00
+        E 160 90 1c 7f
+        E 0 90 24 7f
+        E 360 80 1c 00
+        E 0 80 24 00
+        E 600 90 19 7f
+        E 360 80 19 00
+        E 280 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 27 7f
+        E 160 80 19 00
+        E 0 80 27 00
+        E 800 90 19 7f
+        E 160 80 19 00
+        E 480 90 26 7f
+        E 160 80 26 00
+        E 160 90 1a 7f
+        E 0 90 24 7f
+        E 160 80 1a 00
+        E 0 80 24 00
+        E 800 90 19 7f
+        E 0 90 24 7f
+        E 160 80 19 00
+        E 0 80 24 00
+        E 480 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 26 7f
+        E 160 80 19 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 160 90 35 7f
+        E 160 80 35 00
+        E 160 90 16 7f
+        E 160 80 16 00
+        E 160 90 1c 7f
+        E 0 90 24 7f
+        E 360 80 1c 00
+        E 0 80 24 00
+        E 600 90 19 7f
+        E 360 80 19 00
+        E 280 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 27 7f
+        E 160 80 19 00
+        E 0 80 27 00
+        E 800 90 19 7f
+        E 160 80 19 00
+        E 480 90 26 7f
+        E 160 80 26 00
+        E 160 90 1a 7f
+        E 0 90 24 7f
+        E 160 80 1a 00
+        E 0 80 24 00
+        E 800 90 19 7f
+        E 0 90 24 7f
+        E 160 80 19 00
+        E 0 80 24 00
+        E 480 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 26 7f
+        E 160 80 19 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 160 90 35 7f
+        E 160 80 35 00
+        E 160 90 16 7f
+        E 160 80 16 00
+        E 160 90 1c 7f
+        E 0 90 24 7f
+        E 360 80 1c 00
+        E 0 80 24 00
+        E 600 90 19 7f
+        E 360 80 19 00
+        E 280 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 27 7f
+        E 160 80 19 00
+        E 0 80 27 00
+        E 800 90 19 7f
+        E 160 80 19 00
+        E 480 90 26 7f
+        E 160 80 26 00
+        E 160 90 1a 7f
+        E 0 90 24 7f
+        E 160 80 1a 00
+        E 0 80 24 00
+        E 800 90 19 7f
+        E 0 90 24 7f
+        E 160 80 19 00
+        E 0 80 24 00
+        E 480 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 26 7f
+        E 160 80 19 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 160 90 35 7f
+        E 160 80 35 00
+        E 160 90 16 7f
+        E 160 80 16 00
+        E 160 90 1c 7f
+        E 0 90 24 7f
+        E 360 80 1c 00
+        E 0 80 24 00
+        E 600 90 19 7f
+        E 360 80 19 00
+        E 280 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 27 7f
+        E 160 80 19 00
+        E 0 80 27 00
+        E 800 90 19 7f
+        E 160 80 19 00
+        E 480 90 26 7f
+        E 160 80 26 00
+        E 160 90 1a 7f
+        E 0 90 24 7f
+        E 160 80 1a 00
+        E 0 80 24 00
+        E 800 90 19 7f
+        E 0 90 24 7f
+        E 160 80 19 00
+        E 0 80 24 00
+        E 480 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 26 7f
+        E 160 80 19 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 160 90 35 7f
+        E 160 80 35 00
+        E 160 90 16 7f
+        E 160 80 16 00
+        E 160 90 1c 7f
+        E 0 90 24 7f
+        E 360 80 1c 00
+        E 0 80 24 00
+        E 600 90 19 7f
+        E 360 80 19 00
+        E 280 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 27 7f
+        E 160 80 19 00
+        E 0 80 27 00
+        E 800 90 19 7f
+        E 160 80 19 00
+        E 480 90 26 7f
+        E 160 80 26 00
+        E 160 90 1a 7f
+        E 0 90 24 7f
+        E 160 80 1a 00
+        E 0 80 24 00
+        E 800 90 19 7f
+        E 0 90 24 7f
+        E 160 80 19 00
+        E 0 80 24 00
+        E 480 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 26 7f
+        E 160 80 19 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 160 90 35 7f
+        E 160 80 35 00
+        E 160 90 16 7f
+        E 160 80 16 00
+        E 160 90 1c 7f
+        E 0 90 24 7f
+        E 360 80 1c 00
+        E 0 80 24 00
+        E 600 90 19 7f
+        E 360 80 19 00
+        E 280 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 27 7f
+        E 160 80 19 00
+        E 0 80 27 00
+        E 800 90 19 7f
+        E 160 80 19 00
+        E 480 90 26 7f
+        E 160 80 26 00
+        E 160 90 1a 7f
+        E 0 90 24 7f
+        E 160 80 1a 00
+        E 0 80 24 00
+        E 800 90 19 7f
+        E 0 90 24 7f
+        E 160 80 19 00
+        E 0 80 24 00
+        E 480 90 24 7f
+        E 160 80 24 00
+        E 160 90 19 7f
+        E 0 90 26 7f
+        E 160 80 19 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 160 90 35 7f
+        E 160 80 35 00
+        E 160 90 16 7f
+        E 160 80 16 00
+        E 160 90 1d 7f
+        E 0 90 24 7f
+        E 160 80 1d 00
+        E 0 80 24 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1d 7f
+        E 0 90 24 7f
+        E 160 80 1d 00
+        E 0 80 24 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1d 7f
+        E 0 90 26 7f
+        E 160 80 1d 00
+        E 0 80 26 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1d 7f
+        E 0 90 26 7f
+        E 160 80 1d 00
+        E 0 80 26 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 20 7f
+        E 0 90 24 7f
+        E 160 80 20 00
+        E 0 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1f 7f
+        E 0 90 24 7f
+        E 160 80 1f 00
+        E 0 80 24 00
+        E 800 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 2d 7f
+        E 0 90 33 7f
+        E 160 80 2d 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 1d 7f
+        E 0 90 24 7f
+        E 0 90 33 7f
+        E 160 80 1d 00
+        E 0 80 24 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 1f 7f
+        E 0 90 24 7f
+        E 160 80 1f 00
+        E 0 80 24 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 2b 7f
+        E 0 90 33 7f
+        E 160 80 2b 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 2b 7f
+        E 160 80 26 00
+        E 0 80 2b 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 26 7f
+        E 0 90 2b 7f
+        E 160 80 26 00
+        E 0 80 2b 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1f 7f
+        E 0 90 24 7f
+        E 160 80 1f 00
+        E 0 80 24 00
+        E 800 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 2d 7f
+        E 0 90 33 7f
+        E 160 80 2d 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 1d 7f
+        E 0 90 24 7f
+        E 0 90 33 7f
+        E 160 80 1d 00
+        E 0 80 24 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 1f 7f
+        E 0 90 24 7f
+        E 160 80 1f 00
+        E 0 80 24 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 2b 7f
+        E 0 90 33 7f
+        E 160 80 2b 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 2b 7f
+        E 160 80 26 00
+        E 0 80 2b 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 26 7f
+        E 0 90 2b 7f
+        E 160 80 26 00
+        E 0 80 2b 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1d 7f
+        E 0 90 24 7f
+        E 160 80 1d 00
+        E 0 80 24 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1d 7f
+        E 0 90 24 7f
+        E 160 80 1d 00
+        E 0 80 24 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1d 7f
+        E 0 90 26 7f
+        E 160 80 1d 00
+        E 0 80 26 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1d 7f
+        E 0 90 26 7f
+        E 160 80 1d 00
+        E 0 80 26 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 20 7f
+        E 0 90 24 7f
+        E 160 80 20 00
+        E 0 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1f 7f
+        E 0 90 24 7f
+        E 160 80 1f 00
+        E 0 80 24 00
+        E 800 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 2d 7f
+        E 0 90 33 7f
+        E 160 80 2d 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 1d 7f
+        E 0 90 24 7f
+        E 0 90 33 7f
+        E 160 80 1d 00
+        E 0 80 24 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 1f 7f
+        E 0 90 24 7f
+        E 160 80 1f 00
+        E 0 80 24 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 2b 7f
+        E 0 90 33 7f
+        E 160 80 2b 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 2b 7f
+        E 160 80 26 00
+        E 0 80 2b 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 26 7f
+        E 0 90 2b 7f
+        E 160 80 26 00
+        E 0 80 2b 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1f 7f
+        E 0 90 24 7f
+        E 160 80 1f 00
+        E 0 80 24 00
+        E 800 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 2d 7f
+        E 0 90 33 7f
+        E 160 80 2d 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 1d 7f
+        E 0 90 24 7f
+        E 0 90 33 7f
+        E 160 80 1d 00
+        E 0 80 24 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 1f 7f
+        E 0 90 24 7f
+        E 160 80 1f 00
+        E 0 80 24 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 2b 7f
+        E 0 90 33 7f
+        E 160 80 2b 00
+        E 0 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 33 7f
+        E 160 80 33 00
+        E 320 90 24 7f
+        E 0 90 33 7f
+        E 160 80 24 00
+        E 0 80 33 00
+        E 320 90 26 7f
+        E 0 90 2b 7f
+        E 160 80 26 00
+        E 0 80 2b 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 26 7f
+        E 0 90 2b 7f
+        E 160 80 26 00
+        E 0 80 2b 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1d 7f
+        E 0 90 24 7f
+        E 160 80 1d 00
+        E 0 80 24 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1d 7f
+        E 0 90 24 7f
+        E 160 80 1d 00
+        E 0 80 24 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1d 7f
+        E 0 90 26 7f
+        E 160 80 1d 00
+        E 0 80 26 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1d 7f
+        E 0 90 26 7f
+        E 160 80 1d 00
+        E 0 80 26 00
+        E 320 90 24 7f
+        E 160 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 20 7f
+        E 0 90 24 7f
+        E 160 80 20 00
+        E 0 80 24 00
+        E 320 90 1a 7f
+        E 160 80 1a 00
+        E 800 90 1d 7f
+        E 0 90 1f 7f
+        E 0 90 24 7f
+        E 160 80 1d 00
+        E 0 80 1f 00
+        E 0 80 24 00
+        E 1760 90 35 7f
+        E 160 80 35 00
+        E 1760 90 35 7f
+        E 160 80 35 00
+        E 1760 90 26 7f
+        E 160 80 26 00
+        E 160 90 30 7f
+        E 160 80 30 00
+        E 160 90 2b 7f
+        E 160 80 2b 00
+        E 160 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 22 7f
+        E 160 80 1a 00
+        E 0 80 22 00
+        E 320 90 2d 7f
+        E 160 80 2d 00
+        E 160 90 2b 7f
+        E 160 80 2b 00
+        E 160 90 22 7f
+        E 160 80 22 00
+        E 160 90 20 7f
+        E 0 90 26 7f
+        E 160 80 20 00
+        E 0 80 26 00
+        E 1760 90 26 7f
+        E 160 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 1e 7f
+        E 0 90 22 7f
+        E 160 80 1e 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 22 7f
+        E 160 80 1a 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 1d 7f
+        E 0 90 22 7f
+        E 160 80 1d 00
+        E 0 80 22 00
+        E 800 90 1c 7f
+        E 0 90 22 7f
+        E 160 80 1c 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 22 7f
+        E 160 80 1a 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 22 7f
+        E 0 90 31 7f
+        E 160 80 22 00
+        E 0 80 31 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 28 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 28 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 22 7f
+        E 0 90 31 7f
+        E 160 80 22 00
+        E 0 80 31 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 28 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 28 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 1e 7f
+        E 0 90 22 7f
+        E 160 80 1e 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 22 7f
+        E 160 80 1a 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 1d 7f
+        E 0 90 22 7f
+        E 160 80 1d 00
+        E 0 80 22 00
+        E 800 90 1e 7f
+        E 0 90 22 7f
+        E 160 80 1e 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 22 7f
+        E 160 80 1a 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 22 7f
+        E 0 90 31 7f
+        E 160 80 22 00
+        E 0 80 31 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 28 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 28 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 22 7f
+        E 0 90 31 7f
+        E 160 80 22 00
+        E 0 80 31 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 28 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 28 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 1e 7f
+        E 0 90 22 7f
+        E 160 80 1e 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 22 7f
+        E 160 80 1a 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 1d 7f
+        E 0 90 22 7f
+        E 160 80 1d 00
+        E 0 80 22 00
+        E 800 90 1e 7f
+        E 0 90 22 7f
+        E 160 80 1e 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 22 7f
+        E 160 80 1a 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 22 7f
+        E 0 90 31 7f
+        E 160 80 22 00
+        E 0 80 31 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 28 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 28 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 22 7f
+        E 0 90 31 7f
+        E 160 80 22 00
+        E 0 80 31 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 26 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 26 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 28 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 28 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 800 90 33 7f
+        E 0 90 35 7f
+        E 160 80 33 00
+        E 0 80 35 00
+        E 320 90 27 7f
+        E 160 80 27 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 22 7f
+        E 0 90 33 7f
+        E 0 90 35 7f
+        E 160 80 22 00
+        E 0 80 33 00
+        E 0 80 35 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        e 320 90 1e 7f
+        e 0 90 22 7f
+        e 160 80 1e 00
+        e 0 80 22 00
+        e 800 90 1a 7f
+        e 160 80 1a 00
+        e 320 90 22 7f
+        e 160 80 22 00
+        e 320 90 1a 7f
+        e 0 90 26 7f
+        e 160 80 1a 00
+        e 0 80 26 00
+        e 800 90 1a 7f
+        e 160 80 1a 00
+        e 320 90 22 7f
+        e 160 80 22 00
+        e 320 90 1a 7f
+        e 0 90 22 7f
+        e 160 80 1a 00
+        e 0 80 22 00
+        e 800 90 1a 7f
+        e 160 80 1a 00
+        e 320 90 22 7f
+        e 160 80 22 00
+        e 320 90 1a 7f
+        e 0 90 26 7f
+        e 160 80 1a 00
+        e 0 80 26 00
+        e 320 90 26 7f
+        e 160 80 26 00
+        e 320 90 1d 7f
+        e 0 90 22 7f
+        e 160 80 1d 00
+        e 0 80 22 00
+        e 800 90 1e 7f
+        e 0 90 22 7f
+        e 160 80 1e 00
+        e 0 80 22 00
+        e 800 90 1a 7f
+        e 160 80 1a 00
+        e 320 90 22 7f
+        e 160 80 22 00
+        e 320 90 1a 7f
+        e 0 90 26 7f
+        e 160 80 1a 00
+        e 0 80 26 00
+        e 800 90 1a 7f
+        e 160 80 1a 00
+        e 320 90 22 7f
+        e 160 80 22 00
+        e 320 90 1a 7f
+        e 0 90 22 7f
+        e 160 80 1a 00
+        e 0 80 22 00
+        e 800 90 1a 7f
+        e 160 80 1a 00
+        e 320 90 22 7f
+        e 160 80 22 00
+        e 320 90 1a 7f
+        e 0 90 26 7f
+        e 160 80 1a 00
+        e 0 80 26 00
+        e 320 90 26 7f
+        e 160 80 26 00
+        e 320 90 26 7f
+        e 160 80 26 00
+        e 320 90 26 7f
+        e 160 80 26 00
+        E 78880 b0 7b 00
+        GUID {F78B76DD-9C8A-487D-AF31-794D687B1720}
+        IGNTEMPO 0 120.00000000 4 4
+        VELLANE -1 104 0
+        BANKPROGRAMFILE "C:\Users\Zak\AppData\Roaming\REAPER/Data/GM.reabank"
+        CFGEDITVIEW 72119.118367 0.042616 70 12 0 0 0
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.16666667 365 122 1619 923 0 0 0 0 0.16666667 0 0 0 0 0.750000
+        EVTFILTER 0 -1 -1 -1 -1 0 1
+      >
+    >
+  >
+  <TRACK '{0C69E5D2-8C8E-4C22-8306-F66706304680}'
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.19354553774937 0.00000000000000 -1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0C69E5D2-8C8E-4C22-8306-F66706304680}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1
+    <FXCHAIN
+      WNDRECT 0 52 1003 602
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: ReaEQ (Cockos)" "reaeq.dll" 0 ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAA==
+        AgAAAAAAAACgAAAAAQAAAAAAEAAhAAAABAAAAAAAAAABAAAAL0WFxA==
+        CbxMQN3BmUrr+bc/ReF6FK5H2T8BCAAAAAEAAADdclsax+p5QGEflg==
+        qDZo4T8s3SQGgZXTPwEIAAAAAQAAAMI1WgbwZYZAP/jO2YaZ4D8bLw==
+        3SQGgdU/AQEAAAABAAAA7Wk40iMMt0Dr///////vPwAAAAAAAABAAQ==
+        AQAAAAEAAAAAAAAAAADwPwAAAAA=
+      >
+      FLOATPOS 846 287 721 505
+      FXID {F5C85FFC-C7D7-41B7-8320-668990B37D3C}
+      WAK 0
+      BYPASS 0 0
+      <VST "VST: ReaVerbate (Cockos)" "reaverbate.dll" 0 ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAA==
+        AgAAAAAAAAAoAAAAAAAAAAAAEADvvq3eDfCt3kE5Uz+bUU8/l5aWPg==
+        9gj9PgAAgD8AAAAAAACAPwAAAAA=
+      >
+      FLOATPOS 790 380 573 357
+      FXID {DF404435-E2E3-40F6-8670-05E2BA8EEC58}
+      WAK 0
+    >
+  >
+  <TRACK '{579739DA-459B-4ED1-A6AC-6EF8B9E5428F}'
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.97814255638159 -0.49400000000000 -1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {579739DA-459B-4ED1-A6AC-6EF8B9E5428F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: Guitar Rig 4 (x86) (Native Instruments Software Synthesis GmbH)" "Guitar Rig 4.dll" 0 ""
+        NEdpTu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAA==
+        AgAAAAAAAACJDwAAAQAAAAAAEAAtaW4tAgAAACNOSSNDUyNEb2N1bQ==
+        ZW50IyNOSSNTb3VuZFNoZWxsI1NvdW5kIwAAAAAAAAAAAAAAQQEAAA==
+        YXRhZAIAAABkbnNzYmlsehYAAAAQAAAAeNpjYmBg0PX00zVxz/QDMg==
+        GQARnQImYXRhZAIAAABvZm5pYmlseg8BAAAAAwAAeNqNkktuwyAURQ==
+        514FYp7iT6qmESaDqO00itoFkPg5QrXB4hN1+QXboWnUqMzevZxjMA==
+        gm6++g6dQRuhZI2LhxwjkEfVCHmq8cf762KFkbFcNrxTEmosFUYblg==
+        UaOc9FCrfuSqLDDLMoTooNUA2gowzEdfSN4D26p+0GAMNGjbAZeUjA==
+        dRDItRGKA5efFznM7M0JyzXaixNaUjJWoziDYe5V47q45ZRmz2vrYg==
+        lec5JXN/ByqrFOgxBXpKgKoyAVqmHDww/0MpX3q+Pfhlnq+ZW6vFwQ==
+        2XjTsZiyb868c8Be2haOlpIpTSy5ge/KO/9SwJpftl90BvTCL7D9bg==
+        TUiEYv3XLlcx/AIl8e2y7Bu4HO3rYXRhZAIAAAB0c3JwYmlserINAA==
+        AKp+AAB42u1d21LbvBbuvu1TeHLbCfH58A/tPzmQBEgg5ACF6Y3iKA==
+        iYltuT4Q4GI/yn7WLedgS0kMNdDYtPSiQ2R56fPS0qe1tGSZabW//w==
+        59OnT//776dPh//eWyZzB13PQPbXAnfAFhho62hk2JOvhUG/XlQLjA==
+        5wN7BExkw68FGxWYf799Ppy4RcP2fDewoO0X9Wlgz5hhYJijoh1YQw==
+        6H4taDKWpSPLwffhKg7QZ0VjhNvQFFbUZFXlC8zYBRacI3d5Bde3wA==
+        LXKLER4Rlxi6i+ISJSyxyTr4LseFHkxowjcsDLsX2MwJsBmOZTj1Hw==
+        VvpHZBme5eTCt8+fGSZ8GhffzADHKfoPDlxIjbWCazH43+HYuC9GTw==
+        5DH4SYuGDy0PVxFWdTZrMSEeVWNZLNAGIZTuaVQVVw4rmtCHcdGqMA==
+        +W4mCMLi8bHNV8pDt1E5ha1utzm5ub+f1gZtuX/9tUCKIwUWJ4FBXw==
+        w1fvDDjHnYxcOCqGfxctNIIL5W/+8oyhif8eA9ODhdJGI6UnWiEQgA==
+        YGSgbeUSdR0QmoWPayxUHP/cVZusv1CXUV7r6tgOLVeHZd037iDGDw==
+        zGDRtdsysJQh8CDRFuNCC/mwaIH7sNnop7EwudIOGKXo5q0nii95yQ==
+        SlsohrKD+CJhMaVtkzmMBoDrR8gOS5QhPmGeMmlfxoQ5RbbvIjOlmQ==
+        JklZmeu8dQvKlYlUmT5yZ/68G9yI5aNevwUeJ29jrhxlrlwuzJV9qg==
+        1ez6W9jdVQyftsuTBUUkZdVb5+fX83JteDnSTryf+pXkmue3OvogqQ==
+        D5JKYbRqkq0JaafTZEGk0Z4cXWn9SvOncdlwm+NBsx+oATv4MNoPow==
+        TWG0PGFq5UXvHNspzXWnCNJQG1bp5vLa8Kfc6aSL6kNOOALs/M+dUw==
+        pecNtVVda6wFxz5TnQLbhmZkptzezXQLYbdKMNB0GyKbPURisDuBzw==
+        NIBhx/AOpOwBNtYAG8CHzLldOh+P89THfQpff4qZZIrMEaFEVlv+Ew==
+        P3hzw7EkQ94+cGAN4uicS+ueJkgh2fPo4oHTa1+a9mX956nXPqtdSA==
+        Lbb8O6Z5kj19N0hJnj6GP8LwORBsNb++FtrLlhmkod2niVfbbaW00Q==
+        mxHzIuQ8Q2dvYOLPjMgteD6M7AFitcR0weYHohtBdIHtOciDOdRjEA==
+        gQzsHOJz7tb4LpEZWATCA1WUZdzdXF6guhHULtSRO2I2EOcGqNEh3A==
+        f+j6TAd5ho+pJH/db3okDTE9H09DOUQJKZRH9ijzTk/2C57xDMLLCQ==
+        c9S+nAaRnO0xK7kp3YXt+6n1gNmkcz2WHUdre7e1aUPqqFZz9jaOAg==
+        TzkKfC7CLPn5MKuO1uqqI3eWp9ilH1FVH6uC6Ri+Po3wyVr2AD3f1Q==
+        bX8Nsue7aAhL1TCrlCc1jpy0rshe4bnjeOYcQxfaegxPFHMA0GtHPQ==
+        bJghzbTxAH9/q2VhiBHyIbPkp41W90XvHLkS1oZ4yNgIu0npOD5BCA==
+        SfTl2wG4rnsldlRGGi/IsFa7v0K/ez0tfURordCDgNHNMPM9NkJB1Q==
+        f350XDTB3czUcYH3o4osC9mrH2cgXLBljqPUvfejERjYPWLClXDxRw==
+        pBKmimwfX/9hojkWfwcP5gA7qrpp4JaGhm8Bb7Z4gmXJ72l7ahBNWw==
+        gekbjrnU27IDxRIOsb1waOkwBlUMI3x7FO5BwJcDx1n+9fsCY+lXAg==
+        4848iut+aakqA3+0Z0d09WDr+cPXt5yE6F3IjU/fjgLjduDnMIi7NA==
+        EwNj6T3GHDELvnpOogSs5RaJCiuuW7ItpptiRIIUNxGEtKoh8pqoyQ==
+        Cq9Jv8BMrzH6V3VVQifFOi7uVBa+bbs4xVIvuW+kbDllG5gPXurgLQ==
+        UQy5W6reMSErNM3ZTeuu3O12hiy8VMQ/N6ebz+0nkkR0VWchaslF1Q==
+        dbWUff8LAkkHr3p105Iffz6Kl8cOqLXZxhwZX37Lnjn2VQ7e+zECSg==
+        wEJkEQV+MaHGtmt0SXcesz018Ys8mcLtifGeeYZXUp5G5qUaJhoCsw==
+        fp/S5nfLIM38rIKat98vgqlUN9meaD1YFg/YD7Lb0a6O4w1ghBFuKA==
+        NN7hm1msq7C7Mpdpt+clSSGtpOnM7OHR0Ww6qk8fhetu76F3PbrObw==
+        /pPPLv8pF/6sxFPOU7VGj4xGmT5i2sDzQ4/uI9v0h2Sb3k0u9E3SYg==
+        fDZpMWFrA+F5kNbD3i2DnEc6X26bBle5uLk5CR6H3GDQbqt3f/DOfg==
+        4Rd2IUZJqJZhGWFp/vaovcb13jvYdgR2ORNsg1VlSZAVSeD/6A11Hw==
+        4VYSAW4Urnri0EZ2cdeF7fSQShDdatSuaa5/Uv1erniDk/qkV69IrQ==
+        wA0qt6fG92r56Osmne4knyW9xZd9iDsZYG2tNtWcHfcLr/KiE4nvVw==
+        SS9NkuMV6Y3fYUTb7GtR/fjkOvdeAHVj18aEuD2mbzyz/L4XWM01rA==
+        JjJHOcF0mRhDaazMS3tipV2EnkjmO4h8870jMhqvGnjwehS1NCsPbA==
+        /frLVcevmeLs3L4Vjjtn+t9ALZzwzrilWu71iM070IXoiXhvL5CirQ==
+        MPWD8kH1gBgyAsdzHJ7NM9LVcA2sAjyPhKWKnIhhqdnA8uOdTXBokg==
+        FCOriqpkhsuhfDNyRxNWGXbJQhbJiJUn8fss1KtAvCYp4d7JjDRm0Q==
+        QQEZDXCSFkauWjbAOvOoL9H8yXWr/UyqIGJR/KcB9Ozn+V5kUj0wyQ==
+        gYfmObGP5uFZ7cntjnuBVDEi+jSAt+d57+1dIDK8agNfn8IRUwVDww==
+        hj7lCx356OxKaUk3J+fB0UybtwfAcdtv4gutPa80u7D36g3J78wZeg==
+        flVGZHmRz26q1yOn20WeNwYjCpsoLJIyQjbYQLSqalAzl8hjUFhtGQ==
+        +bcg8tqi0bk2MiUbSF6Sv/1OqVAkqbDn42tMuFsFO30e2lhymp1p8w==
+        +6ke3JwG50eGZ53dNazrPcaFH0z46mULiVVZDbNMRp5onEkNPJ923g==
+        BUkUwu1TGaksOmSg7PtAn5HErC0WY7l8LNaR8SEry2HgmpGTGp0qsA==
+        60ABWVR4ZW/zxpuTYog9JkXHNewJ04WYOYYUIzYuxgNN92tX9WO3zA==
+        Tm7L/sVPsfw3MKL6zhixb8XjKOzGzfVlgZPYDCP0Kxh5FVeQTBGIqg==
+        sDjbjM+Irxem34L2xJ9uDId1YTzkBU3EBM5l5CpWEpb3VF5TsM+viA==
+        GWc1WmjO1IDlYN2RS1aqrPDZLVm1opyLMZnugCerqixnFi8ZbfrkHw==
+        6kUW9p3OLOQOlosAjJgaNMEDNa2cnJ5bvVqn2a1XZ/699eVIu2xczw==
+        /4Zp5eUJmIyWxfo96p0YhnpfLSNMtQjTwrRygalPQ9qYfWWJl7PLdA==
+        XO2eemU8VHGoxGfkEtSjPBqEo+FGSCKJopDdVFuLOtMYjwOPOnjlgA==
+        U3g+o6WZY/sunjAw+/hZW32zk5jcUxRWDnc2ZTXxd5KyoYqshUGlnA==
+        0RpuN3KE22gU4JkLWxfTBX7mCZB2bReyGnRIJ/jDT3orP0kjI/BjHQ==
+        Xm7G3uVKxz5t3dm9s2bgngY82+y3r2Z/wy4V5Z35SDncpBIdelpFJg==
+        IvMdCsupOB7jMqK/Y8Lic5AVjw+NeYSZZ/ci9jXuSdWIrCBlF94Pdg==
+        HrLwXmNT8vXlowumN4Xm3WJBgODdVrN2O2BPzqujc2fYPjmxKtNAGA==
+        /A28K78z3r1EaY7Y2E9Qw8XLYUzdhT/JwIFXJInLLDXVIKFtbCzDqA==
+        Qq9YzGgVts7Hy3SbWpM1QVUUKas4okFC29CaKLKyomjiO02MCzzNhg==
+        DRc4U0OnyLAjswpAF2rzpjIZHLVOHnt3ZaP9sVU6j2yYNy60jNijsQ==
+        N4d1VphAvIXqPieYXHK3L9MF9iQHnTfk4vUTexQe5U7uF5B4SeQymg==
+        LIY8hYzPga4ECpFAbcgLZwhZzGjBcChSyETqrQBNFVgpo914Q4kCJg==
+        ZTarbiOTKWQy6Yos3KTMVKZQwBRSZYooKTKvZRQjDlUKmUqttvKqyg==
+        CXvS2WtdpMPS7vdXD0urz1Yuv2HpQmCGH7vUl5+zGg13fMAShGmg6A==
+        mJtFPTM8g478fOWq3AfuBPqMZyJ/cZCVjyYTE26dALuzOpeuOk9X5w==
+        nqkupKsupqsupasub1an/L1F/UXvM9AGw9UBgcuqAiG5RIl+skHlxQ==
+        DfIva1BNpxAtXXUurWmltC0uybgOS6vBsPppRdkFPHIM24b0Z2hXIw==
+        xoZ6WGVxMtSizAK+i0emi+Ye/dHYSNuHS87YMSzFwnYMVIR34f+m4Q==
+        +dBeRwAbZfTpE4cxrOII+IAhvpVL0dBKL3FT8aH3MRcUQ7UtrqgFyg==
+        hMB9MVqJDD/BW4ziCmYpeBVAhWderwtWXwLmNsMjCu9bPcnqaOddjw==
+        or3sUfpORo+y+nDRrkcJ7fklz+KYL3wWcp7asMOoimcDx5sin5zeog==
+        soUFR78SBknYzoaUw9LGwFkVT5EXzpg+stajNflDRYereqG+4ipMfA==
+        d6wMVqaOCk3adV9KL1rmKMlJ24xeIJlnKclJa8QvkEwLTno1/QWCOQ==
+        nlZzwnkaL1EG3YFJr5C9QLJAd2BSCvQlkhVKctK61gskS3QPJm2Zjg==
+        JsOtUbX0MLecyqWviZsFIUmUlj9xOyGm8FCLMXItC9hgEoKIjmf6HA==
+        H2CD3BEMd7Li2RQz24JvSt8Wruzm9+S/ff4/UZ9N8WF0YWQCAAAARA==
+        TlNTYmlsehYAAAAQAAAAeNpjYmBg0PX00zVxz/QDMhkAEZ0CJg==
+      >
+      FLOATPOS 23 23 391 249
+      FXID {CADCC5E5-685E-4A51-83A5-2681AE72A8ED}
+      WAK 0
+    >
+    <ITEM
+      POSITION 1.84615384615385
+      SNAPOFFS 0.00000000000000
+      LENGTH 86.76923076923077
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000
+      FADEOUT 1 0.010000 0.000000
+      MUTE 0
+      IGUID {635B764D-6E8F-4DE3-A3C3-F16038A93CFD}
+      NAME "02-160110_1537.wav glued"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 1.84615384615385
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {6D6D3CEA-AA51-4B37-985C-50882B152C18}
+      <SOURCE WAVE
+        FILE "03-160110_1721.wav"
+      >
+    >
+  >
+  <TRACK '{C5A70838-0CFE-44D2-AAD3-274009C7A83D}'
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.97256319928355 0.63200000000000 -1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C5A70838-0CFE-44D2-AAD3-274009C7A83D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: Guitar Rig 4 (x86) (Native Instruments Software Synthesis GmbH)" "Guitar Rig 4.dll" 0 ""
+        NEdpTu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAA==
+        AgAAAAAAAACJDwAAAQAAAAAAEAAtaW4tAgAAACNOSSNDUyNEb2N1bQ==
+        ZW50IyNOSSNTb3VuZFNoZWxsI1NvdW5kIwAAAAAAAAAAAAAAQQEAAA==
+        YXRhZAIAAABkbnNzYmlsehYAAAAQAAAAeNpjYmBg0PX00zVxz/QDMg==
+        GQARnQImYXRhZAIAAABvZm5pYmlseg8BAAAAAwAAeNqNkktuwyAURQ==
+        514FYp7iT6qmESaDqO00itoFkPg5QrXB4hN1+QXboWnUqMzevZxjMA==
+        gm6++g6dQRuhZI2LhxwjkEfVCHmq8cf762KFkbFcNrxTEmosFUYblg==
+        UaOc9FCrfuSqLDDLMoTooNUA2gowzEdfSN4D26p+0GAMNGjbAZeUjA==
+        dRDItRGKA5efFznM7M0JyzXaixNaUjJWoziDYe5V47q45ZRmz2vrYg==
+        lec5JXN/ByqrFOgxBXpKgKoyAVqmHDww/0MpX3q+Pfhlnq+ZW6vFwQ==
+        2XjTsZiyb868c8Be2haOlpIpTSy5ge/KO/9SwJpftl90BvTCL7D9bg==
+        TUiEYv3XLlcx/AIl8e2y7Bu4HO3rYXRhZAIAAAB0c3JwYmlserINAA==
+        AKh+AAB42u1d21LbvBbuvu1TeHLbCfH58A/tPzmQBEggkACF6Y1iKw==
+        iYltuT4Q4GI/yX7YLedgS0kMNdDYtPSiQ2R56fPS0rfWkmSZ6XS//w==
+        59OnT//776dP+//e2xZzBz3fRM7XErfHlhjo6MgwnfHX0sWgWVZLjA==
+        HwDHABZy4NeSg0rMv98+74+9sun4gRfa0AnK+iR0pswwNC2j7IT2EA==
+        el9Lmoxl6ch28X24igv0adk0cBuawoqarKp8iRl5wIYz5C2u4Po2uA==
+        RV45xiPiElP3UFKiRCUOWQff5XrQhylNBKaNYfdDhzkCDsOxDKf+ww==
+        Sv+ILMOznFz69vkzw0RP4+GbGeC65eDBhXOpiVZwLQb/2x+Z9+X4iQ==
+        fAY/adkMoO3jKsKyznotJsKjaiyLBToggnJ+HFfFlaOKFgxgUrQsTA==
+        v5sJw6h4dOjwtQ7v8+HUv344r/9sAoOfNKVhTf9aIsWRAsvj0KSv4Q==
+        q3cmnOFORh40ytHfZRsZcK789V++ObTw3yNg+bBUWWuk8kQrBAIQGg==
+        JtpULlHXBZFZBLjGXMXJz221yfpzdZnVla4OnchydVjVA/MOYvzACg==
+        5127KQNLGQIfEm0xHrRRAMs2uI+ajX+ac5OrbIFRiW/eeKLkkp+utA==
+        uWIoO0guEhZT2TSZ/XgAeEGMbL9CGeIT5imT9mWOmWPkBB6yMpppmg==
+        lKW5zjq3oFobS7XJI3cSzM7DG7F60B90wOP4bcyVo8yVK4S5sk+1mg==
+        X38L27uK4bN2ebqgmKTsZuf09HpWbQwvDe3I/6lfSZ51equjD5L6IA==
+        qQxGq6bZmpDVnaYLIo326OBKG9TaP83LltceXbQHoRqyFx9G+2G0GQ==
+        jJYnTK06751DJ6O5bhVBGmrLrtxcXpvBhDsen6PmkBMOADv7c32q9A==
+        vKF26iuNdeAoYOoT4DjQis2U27mZbiA8rxMMNNmEyOYPkRjsbhgwLQ==
+        YDoJvD0pf4CtFcAWCCBz6lROR6Mi9fGAwjeYYCaZIMsglMhqi3/iBw==
+        b64FlmTKOwAubECcnXNZw9MUKSR7Hpw9cHrjS9u5bP489rsnjTOpww==
+        Vn+HmyfZM/DCjOQZYPgGhs+BcKP51bXIXjbMIAvtPk282nYrpY3eig==
+        mRch9xk6ewMTf2ZEbsALYGwPEKsloQu2OBC9GKIHHN9FPiygHsMYZA==
+        6BQQn3u3wneJrNAmEO6poizj7uaKAtWLoZ5DHXkGs4a4MEDNHhH+Qw==
+        L2B6yDcDTCXF637LJ2mI6QfYDRUQJaRQHjhG7p2eHhc8ExlEl1N81A==
+        roIGkfT2mJW8jOHC5v3UfMB03Lseya6rdf3bxqQl9VS7PX2bQIGnAg==
+        Bb4QaZb8fJrVRCt1NZE3LVLuMoipaoBVwfTMQJ/E+GQtf4B+4OlOsA==
+        AtkPPDSElXq0qlQkNRpu1lBkp/C8UeI5R9CDjp7AE8UCAPS7cQ+bVg==
+        RDNdPMDf32xZlGJEfMgs+Gmt1V3RO0fOhHUhHjIOwmFSNo5PEUISfQ==
+        9fYCXDf9CmtUkcYLMmw07q/Q755Py54R2kv0IGR0K1r5HpmRoPo/Pw==
+        eh4a425mmrjA/1FHto2c5Y8TEE3YMofx0r3/oxWaODxioplw8UesEg==
+        po6cAF//YaEZFn8H92YAB6q6ZeKWhmZgA386f4JFye9pe2ISTduhFQ==
+        mK610NuiA8UKTrH9aGjpMAFVjjJ8x4j2IODLoesu/vp9ibH0K4lxbw==
+        Fud1vzRVlUM82ndiunpw9OLhG9huSvYuFCam78aJcTcMCpjEXVqpiQ==
+        sfQec46EBV/tkygBK7llosKS6xZsi+mmHJMgxU0EIS1riLwmarLCaw==
+        0i8w02uM/lVdldJJiY7LW5WFb9sszjDVS+4bqdpu1QHWg585eUsVQw==
+        7pY6/HLnC3fdc6XZtEfibDS9OK56f/BuqWJuP5Ekoqt6c1ELLqqvqg==
+        Zez7XxBIBnj1q5uO/PjzUbw8dEGjy7ZmyPxy/TusgH1VgPd+jIASMA==
+        F1lGYVBOqbEZGl3SncdsuiZ+vk6mcDtivGee4ZWUp5HrUi0LDYHVvA==
+        z2jz22WQZn5SQ+3b72fhRGpabF+0H2ybB+wH2W1pV8f5BjCjDDcSmg==
+        7PDNLddV2G0rl1m356VJIa2k7U6d4cHBdGI0J4/C9Xn/oX9tXBd3/Q==
+        k89v/VMu/VkLTwVfqjX7ZDbKDBDTBX4QRXQfq01/yGrTu1kLfZNlMQ==
+        Pp9lMWFjA+FpmDXC3i6D9CO9L7dtk6ud3dwchY9D7uKi21Xv/uCd/Q==
+        wi/sQowXoTqmbUalxduj9prQe+dguzHYhSfYBKvKkiArksD/0RvqPg==
+        0q00AlwrXPbEvoOc8rYLm8tDKkF0y1G7ornBUf17teZfHDXH/WZN6g==
+        hF5Yuz02v9erB1/X6XQr+SzoLbkcQNzJAGtruanm5HBQelUUnUp8vw==
+        SnpZFjlesbzxO4xok31tqh+fnOfeCaDzJLSxIG6PGZjPTL/vBFZ7BQ==
+        q40soyCYLlNzKI2VeWlHrLSN0FPJfAuRr793RGbjdRMPXp+ilnbtgQ==
+        bV5/ueoFDUucnjq3wmHvRP8bqIUT3hm31Kv9PrF5B3oQPZHv7QRSvA==
+        Faa5V92r7xFDRuB4jsPePCddDVfAasD3SViqyIkYlpoPrCDZ2QSHFg==
+        STGyqqhKbrhcKjYjdzRhleGQLGKRnFh5nLzPQr0KxAucEm2rycnAbA==
+        OikgswFO0qLMVcsHWG8W9yWaPTlvtRunCmIWxX+aQM/fz/djk+qDcQ==
+        ASI0301iNB97tSe3O+4EUs2M6dME/o793tuHQGR61QWBPoEGUwdD0w==
+        gQEVCx0E6ORK6Ug3R6fhwVSbdS+A63XfJBZaRV5ZdmHvNBqS31kw9A==
+        /KyMyPIin5+r1+Og20O+PwIG5VNZVsFhiKrkgw3Es6om6blkTeNFlg==
+        5XPyXHhIxjpbjc6VkeWkKD8t3n6nVCiSVNgP8DUm2q2Cgz4frU05TQ==
+        T7TZ/UQPb47D0wPTt0/uWvb1DvPCDyZ89bSFqEhKFInyOcVZsaGFfg==
+        QAfvAidE54vlpLH4jIFqEAB9SmpMm8/FcsWYqyOpmZXlKG/NKUaNDw==
+        Fdh2noDCirK6Kz/75pTIKyQlup7pjJlziHljSPFh62x0oelB46p56A==
+        VdnxbTU4+ylW/wY+VN8ZHw7sZBhF3bg+uyxwEptjfn4F45jiCpILBA==
+        oqzMt5TmhGth+h3ojIPJ2nBYFSZsJGgihsqJOaWnKZN7Kq8pOOJXxA==
+        nNc0OmjGNIDtYt2RE1aqPJ+wyikf6cQrLuZ4sgWerKqynFu2ZHbpcw==
+        f6jXWNh36lnI/StnITCYBrTAA+VWjo5P7X6j1z5v1qfBvf3lQLtsXQ==
+        z/4Gt/Ly5ZecJsUGfeqNGIZ6Wy0nTI0Y09y0CoFpQENa876yxMv5rQ==
+        c1xtd70yHqpafhMfzXgVDUJjuJaRSKIo5OdqG3FnmqNR6FPHruxxCg==
+        z+c0MXPo3CUOA7NPkLfVt3upS3uKwsrRvqa8HH8vbS1UkbUop5Rzmg==
+        wT2PA+EuMkLsubB1MecgyH35o9vYhqwBXTII/oiT3ipO0sgM/FCHlw==
+        67l3tdZzjjt3Tv+kHXrHIc+2B92r6d+wR0V5ZzFSAbeoxEee1pGFPA==
+        atqKU3E+xuVEf4eExRdgTTw5MuYR5r62F7OveU+qRmQFKb/0/mLrEQ==
+        C+81NyVfXj44Y/oTaN3NJwQI3u20G7cX7NFp3Th1h92jI7s2CYWLvw==
+        gXfld8a7lyjLARu7SWq4ZDqMaXrwJ5k48IokcSyXU77VIqGtbSvDqA==
+        oqhYzGnNrMkn03TrWpM1QVUUKa88okVCW9OaKLKyomjiO10WF3iaDQ==
+        Wx5wJ6ZOkWFPZhWAztT2TW18cdA5euzfVc3ux0bpIrJh0bjQNpOIxg==
+        WR/WeWECyQaq+4Jg8si9vsw5cMYF6Lwhl8yfOEZ0kDu5XUDiJZHLyQ==
+        WQx5ChlfAF0JFCKB2o4XeQhZzGnCcChSyETqnQBNFVhJyAmYRAGTcg==
+        86qbyGQKmUyGIvMwKTeVKRQwhdryJEqKzGs55YhDlUKmUrOtvKpywg==
+        jnT22hBpv7L97dX9yvKjlYsvWHoQWNGnLvXFx6yM4ZbPV4JoGSg+5A==
+        Zl7Pik6gIz9euSwPgDeGAeNbKJgfYxWg8diCG+e/bq3OZavO09W5Zw==
+        qgvZqovZqkvZqsvr1al4b15/3vsMdMBweTzgoqpASK5Qop9sUHlxgw==
+        /MsaVLMpRMtWnctqWhlti0szrv3KcjAsf9rx6gIeOabjQPojtMsR4w==
+        QD2qMj8Xal5mg8DDI9NDM5/+ZGys7f0FZ2wZlmJpMwcqw7vof8v0Aw==
+        6KwygLUy+uyJ/QRW2QABYIgv5VI0tNRL0lRy5H3CBeVIbfMraokyIQ==
+        cF+OZyKjD/CW47yCWQheJlDRiderguV3gLn19IjC+1ZPsjzYedujaA==
+        L3uUgZvToyw/W7TtUSJ7fsmzuNYLn4X0U2t2GFfxHeD6ExSQ7i0umw==
+        W3D8K2WQRO2sSdmvrA2cZfEE+ZHHDJC9Gq3pnynaX9aL9JVUYZK7Ew==
+        ZbAydVBo2p77SnbRMkdJTttm9ALJPEt/CjpljvgFkmnBaS+mv0Awxw==
+        02pOOU3jJcqgOzDtBbIXSBboDkxbAn2JZIWSnDav9QLJEt2DaVumYw==
+        Z7gxqhYR5kZQuYg1cbMgIonK4iduJ8IUHWkxQp5tAweMIxDx4Uyfkw==
+        42uQZ8BoJyv2ppjZ5nxT+TYPZde/Jv/t8/8BjTtOTmF0YWQCAAAARA==
+        TlNTYmlsehYAAAAQAAAAeNpjYmBg0PX00zVxz/QDMhkAEZ0CJg==
+      >
+      FLOATPOS 23 23 391 249
+      FXID {CADCC5E5-685E-4A51-83A5-2681AE72A8ED}
+      WAK 0
+    >
+    <ITEM
+      POSITION 1.84615384615385
+      SNAPOFFS 0.00000000000000
+      LENGTH 86.76923076923077
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000
+      FADEOUT 1 0.010000 0.000000
+      MUTE 0
+      IGUID {9E91D2DA-F369-4F9F-BD43-C152D5C13242}
+      NAME "03-160110_1541.wav glued"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 1.84615384615385
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {B9EBBC1C-60F6-43E9-99E0-ECF2F5C8E7E0}
+      <SOURCE WAVE
+        FILE "04-160110_1721.wav"
+      >
+    >
+  >
+  <TRACK '{335AE466-BDE5-4D59-AB64-1F0DB4C45364}'
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.12660124712839 0.00000000000000 -1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {335AE466-BDE5-4D59-AB64-1F0DB4C45364}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1
+    <FXCHAIN
+      WNDRECT 0 52 1003 602
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: ReaEQ (Cockos)" "reaeq.dll" 0 ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAA==
+        AgAAAAAAAACgAAAAAQAAAAAAEAAhAAAABAAAAAAAAAABAAAA4ibg/Q==
+        7iZVQN+RuMYrqr8/YI/C9Shc6z8BCAAAAAEAAADVNqYJGOx9QI9tqw==
+        AFdM4D9TuB6F61HYPwEIAAAAAQAAAC/lCVKztqFAaPODCtzP4T8+NQ==
+        XrpJDPA/AQEAAAABAAAAAAAAAACIs0AAAAAAAADwPwAAAAAAAABAAQ==
+        AQAAAAEAAAAAAAAAAADwPwAAAAA=
+      >
+      FLOATPOS 450 168 721 505
+      FXID {138B0E60-8644-4894-A109-1E86A2D2B67B}
+      WAK 0
+      BYPASS 0 0
+      <VST "VST: ReaVerbate (Cockos)" "reaverbate.dll" 0 ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAA==
+        AgAAAAAAAAAoAAAAAAAAAAAAEADvvq3eDfCt3ndHIj4sF3E/l5aWPg==
+        Q+ZOPwAAgD8zFzg9AACAPwAAAAA=
+      >
+      FLOATPOS 23 23 573 357
+      FXID {91C5FFA1-6B28-4B11-9D87-154950B27273}
+      WAK 0
+    >
+  >
+  <TRACK '{CF05B2AE-39FA-44A2-ABEA-130F67DA69F3}'
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.99801475173341 -0.49400000000000 -1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CF05B2AE-39FA-44A2-ABEA-130F67DA69F3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: Guitar Rig 4 (x86) (Native Instruments Software Synthesis GmbH)" "Guitar Rig 4.dll" 0 ""
+        NEdpTu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAA==
+        AgAAAAAAAAC0DAAAAQAAAAAAEAAtaW4tAgAAACNOSSNDUyNEb2N1bQ==
+        ZW50IyNOSSNTb3VuZFNoZWxsI1NvdW5kIwAAAAAAAAAAAAAAQQEAAA==
+        YXRhZAIAAABkbnNzYmlsehYAAAAQAAAAeNpjYmBg0PX00zVxz/QDMg==
+        GQARnQImYXRhZAIAAABvZm5pYmlsevsAAABAAgAAeNqNkc1uwjAQhA==
+        73kKy3fqBJAaIcccqrZXhNreDdkgq84a+Qfx+LWT4FJUJG47s994dw==
+        Zb4+95qcwDplsKHVU0kJ4N60Cg8N/fx4m9WUOC+xldogNBQNJWtRcA==
+        ZwJGqDO/4cW8oqIoCOFHa45gvQInoowGyh7EiwaJ5MucORt0Itk1mg==
+        jJ3E70sq1eI9KC8t2aoDWXI2WENwAlPdmzboPGtUUy7GVvPnsiw5mw==
+        /DvQon4AWlYPQPXtS5d62lZ6b9Uu+LxwNkYdnZPUAcRr18HeczaqkQ==
+        ZTfw3fDGggPv/qRjMziws9gQ282KsQxl+78pVzKdwFn+e1H8AA5WsQ==
+        sGF0YWQCAAAAdHNycGJpbHrxCgAAPlwAAHja7VxdV+K8Fp5zO78iiw==
+        27MqbflqZznzLkDxC5AR9HVmzU0oAaJtUttU0F9/Ej7aFKhadSx6nA==
+        i1mS7u483dl5sneyW9BsXf7ny5cv+p8vX3b/mTo2uEWejyn5ntN21A==
+        HEDEogNMRt9z572GYuSAzyAZQJsS9D1HaA788+Pr7shTMPGZFziIMA==
+        xRoH5Br0A2wPFBI4feR9z5llrsuijsvv4yIutK4VPOB9mBW1aJYNQw==
+        z4GhBx00od78Cpd34BX1lBBPkbdgy6NRS0W0EFmG3+V6yEcJXTDscA==
+        2N2AgGNIgKYCzfimlr4VVaCrWjn34+tXAMTTePxmAF1XYXcummmNrA==
+        wqUA/7c7xFMlfCIf8CdVMEOOz0UKC5lVKSDwGKaqcoUECihnJ6EoFw==
+        FoI2YihqWjQm3w2CQDQPj4he69DT6eXUswtnHdxsH1nMQ5arfs/J6g==
+        ZIXKKMDxa/zqLUYTPsjUQwNF/K04dIBmxl/95eO+zf8eQttHufxKJw==
+        +Qd6kRDAYIDpunElWRcKt2BcYmbi6OcmaVl+Zi5cXdrqiAjPtVDVYg==
+        +BZx/NAOZkO7roNr6UMfSX0BDzmUIcWBU9Ft+BPPXC6/AUY+vHntiQ==
+        okt+stFmhon5QXRR8pj8usvshhPAYyGy3XzMER9wz7LsX3gETihhHg==
+        tVO6aZKWhbtOmlewWhuVauN7rc0mZ8HvYnW/22vC+9HruKsWc1dtKw==
+        3FV9qNfsxruweaiAnnbIkxWFJOU0msfHtbZLR7+rdhNXOybsOky7/Q==
+        JKlPkkrjtEaSrxXSLqfJimSnbZk3v+4m04ufg/aV2es1rnyjfNz6dA==
+        2k+nTeG0uuRq1dnoHJGU7rpRheyoNWS1jclVWR8c4tPO+THSLku/zw==
+        P+6aWnrcUZv1pcWaaMhAfQwJQXboptqbu+kawrO6xEDjdYhq9hClyQ==
+        7gYMHEBMIng7pewBHiwBHkCGwCnJnw6H2zTGvRi+3pgzyZjaA8mIqg==
+        Of9X/OTNlcBSTnl70EV7iGfnWtrwNEGLzJ51p9D4ufdr1Lio39z89w==
+        18kVpI55/jeWeZk9mRekJE/G4Q84fA0Ga90vrwl/WXODNLT7MPGamw==
+        vTTu9HbIvJS6j9DZK7j4IzNyDR5DoT8gbpaILtTtgeiFED1IfJf6aA==
+        C+0YhCADsoX43NslvgtqB46EcMcolst8uLVtgeqFUM+QRb0BWEG8NQ==
+        QHFHCv+Rx0CH+phxKtm+4bd9mYZAl/FlaAtRohjKfTLIfNCT44JHIg==
+        A3E5YY16q6ChKK/2nJW8lOHC+v1yoHDwix3e3t10VK3mlQ9P2yf1Uw==
+        wl4pUNBjgYK+FWlW+fE0q0GX5mpQ73qbcpdeSFU9bgrQwcwah/jKZg==
+        9gB95lmELUF2mUf7KF8Xp0rbZMaBmzYUeVN43jBaOYfIQ8SK4BWLWw==
+        ANBvhSOMbUEzLT7B399umUgxBB+COT+t9PpW9K7JO2EtxKcMoTxMSg==
+        x/EJSmSi3z9nh1NiD9R2nY5uxr2ycWnY/t/eT0ufEToL9DAAli1Ovg==
+        h1goqn/70/HoiA8zaPAG/0+dOg4lix9tKDZswVF4dO//OQgwD4+A2A==
+        CS/+CU0C6pQwfv2PTSdc/S3amUAeqFo25j31MXOgfz17gnnL3+l7jA==
+        pa6dwGbYted2mw9gMc9TbF9MLQtFoBSR4ZOBqEHglwPXnf/19xLj0g==
+        UxLjziTM6560VZVBPNolIV3dEWv78PUcNyF7L2xNTN8KE+NWwLYwiQ==
+        u7ATE+PSe8w5IhZ88ZoUU7DUq0gCC66bsy2nGyUkwRg3SYS0kCjqZg==
+        0SxXdLP0BGZ6idO/aKgSBimysbLRWPy29eYUW71y3UjVcasE2nd+6g==
+        5C1RjVwt1bRVuFfzg7HdJpCco1qp2QiqH/dMdzvLT0olaag6M1VzLg==
+        qi/FUo79ExTGtvz7HmlVbzz6+4BW6oOfwdV4+LP4N7xAfVGA936cIA==
+        pmCmUqEBUxIk1kOji/jggfWlqSw2Zzbs2f4dwnvkEV7IeKZ8LHVg0w==
+        PrQb05Quv1lHbL/qpFkgZ5fI1NpOdbw/zLfvL2/2P7luQ78WTzcgFg==
+        Ca5QGhX4ZpbqVtRNB5dpq/OStMhecto86OBDjd3UDkf/Fu+np+PCpA==
+        aGzv8aee3fFnOfexzp22/KQWd+VkFPQoaEGfiYDu87Dpgxw2vZuj0A==
+        VzkV07M5FSus1Q+eBmkD7M06YiXeKH8+vTNqtdKhe1Hygv3GUaX/8w==
+        4xYhFp5QhBieQTWxg0Xr9pWovSDyfnOsrRDrfCFYx2qUS4VypVTQPw==
+        dDndZ7KVQH8rjYuB2CWUKJsurJ//axLNNYL7+yXD9Y7rl9WWeWV2mw==
+        ZHzXbrhs3L13i8f4KPYSSzK7zZktuswQH2DITTXvq6L6YN7fS4LoRA==
+        3nsq56UJfp98uPE2e5RrgOrVblc6XkceollDukjMDCqqOJVUdT0bYA==
+        jbjPh7D0ckW8K6MVs4FVW8KqQd+X6amgG5ppGuVsYPWikgjUt+VhLA==
+        V3S99GbANi85icvNhqVmNcgz5CivDmp0GiPAjnHcuv/Vujkxj+ldXQ==
+        9Wjd0m4mr0KAR+2j3haTn1Z8Lvtpn+y3ZD8a7je0qedAe0PcUSkU+A==
+        xK5kRIO1cBBrHrZtDAl7PP98G8rpJ3BORnhqfgI1a2apwhnQrGRkJw==
+        K1b1Vw+kbZidgmloPK7VChlh60q1dFyhTUHXRUh+G6hS0Etlbr2sEA==
+        7rFVhHuIh7pZM8fhfZiw0MmD+39vQ2QhTVxAD0Mr68nYHYVED0cPVg==
+        c7wJnDPfjfbwfL7yyiWjO4LfzexcvIZhyFwYysxllma4Kub7jN0MOQ==
+        dmtBZo3RANRhHxPEYkHciXZ514KaicyD4HpcM+ttd/+6+CpB3DJkTA==
+        U97+PnLYjGb24xteZUOdHfJllKGFy23do74/hHJt845eMfS320Zaww==
+        Fk70KvZkVixqBVEtklGEwqdkaLPl7Fxg0zNaz/ykREF7n1SoVyQq7A==
+        uh4mI3CGOF30Y0TYbv060+newb1WD4qkO/051glS/x+yWeOd0WDPiQ==
+        AgoxjKCHYySom4YpNqwziin+ReEE+hfJCUfJLOt6ZrnQ3PObiIxEBA==
+        H5sNy8asQ8XEDb6M8ozofHwC9qDjcltlj6q5RHWIR+PtgYVb8a+DxA==
+        it3Vd7Fy7OY3nwzt5hdfg5x/GtJD0BbfkLTmX4ka9Dd8FxIiG96F5Q==
+        YzM5W5R2y1+FXLQz6I0QA75N2aw+lNHRyEZrL1ZtFNfSietxce0R8Q==
+        QjrxYjrxUjrx8qp4bA2cyc9GHyAC+4u6+7loQdKcj6l+sMPKszvUnw==
+        16GRziBmOnEtrWul9C0tybl284vJsPjJLwc8NuLzhc8cTAiKf911MQ==
+        YwiyhMis4nLW5kDm8Znp0Ykf/xZraO3dOWdsmJbF3HpoqPDQgf9vYw==
+        nkiRZVS00hav6tiNYCkDyCCQPkEbo6GFXaKuonfJIy5QhNlmV4xczA==
+        heBUCcMr8WVbJeRQMFe8CCrFq6TLhsUHdrXVkDGG97WeZPHG5KZHMQ==
+        n/coPTejR1l8D2jTowh/fs6zuPYzn0Vep1b8MBTxCXT9MWXy8ha2zQ==
+        PDj8lTBJRD8rWnbzKxNn0TymvlgxGXWWs3U1cZDm1UJO2CsSAdHdoQ==
+        MfRC7AWcpCKKfHrNavw7yAmHk89QrMUhJyWKz9CsGzHNSXtxIZOuDQ==
+        yTw8WYtI5oEK7xYKD8vPf/J+BCYed4Eh9RwHEjgSIMKaua9RWRH1Bg==
+        SKQGnIr5tJg5a/7HLA5a/cb3j6//A7wrtqBhdGFkAgAAAEROU1NiaQ==
+        bHoWAAAAEAAAAHjaY2JgYND19NM1cc/0AzIZABGdAiY=
+      >
+      FLOATPOS 23 23 391 249
+      FXID {50CBC53D-23F0-41F7-9D4A-0C62A5941598}
+      WAK 0
+    >
+    <ITEM
+      POSITION 88.15384615384616
+      SNAPOFFS 0.00000000000000
+      LENGTH 52.15384615384616
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000
+      FADEOUT 1 0.010000 0.000000
+      MUTE 0
+      IGUID {B0B285A1-D07D-46B5-8D78-CFDC744FCEFD}
+      NAME "05-160110_1714.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 2.30770102912960
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {7D7E5B17-2D3A-48F7-805F-C59E77AEC5CB}
+      RECPASS 16
+      <SOURCE WAVE
+        FILE "05-160110_1714.wav"
+      >
+    >
+  >
+  <TRACK '{3936FFBF-6526-4D0B-B763-6E24E1F0004F}'
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.99912545574414 0.49200000000000 -1.00000000000000
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5000000000 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3936FFBF-6526-4D0B-B763-6E24E1F0004F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0
+      <VST "VST: Guitar Rig 4 (x86) (Native Instruments Software Synthesis GmbH)" "Guitar Rig 4.dll" 0 ""
+        NEdpTu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAA==
+        AgAAAAAAAAC2DAAAAQAAAAAAEAAtaW4tAgAAACNOSSNDUyNEb2N1bQ==
+        ZW50IyNOSSNTb3VuZFNoZWxsI1NvdW5kIwAAAAAAAAAAAAAAQQEAAA==
+        YXRhZAIAAABkbnNzYmlsehYAAAAQAAAAeNpjYmBg0PX00zVxz/QDMg==
+        GQARnQImYXRhZAIAAABvZm5pYmlsevsAAABAAgAAeNqNkc1uwjAQhA==
+        73kKy3fqBJAaIcccqrZXhNreDdkgq84a+Qfx+LWT4FJUJG47s994dw==
+        Zb4+95qcwDplsKHVU0kJ4N60Cg8N/fx4m9WUOC+xldogNBQNJWtRcA==
+        ZwJGqDO/4cW8oqIoCOFHa45gvQInoowGyh7EiwaJ5MucORt0Itk1mg==
+        jJ3E70sq1eI9KC8t2aoDWXI2WENwAlPdmzboPGtUUy7GVvPnsiw5mw==
+        /DvQon4AWlYPQPXtS5d62lZ6b9Uu+LxwNkYdnZPUAcRr18HeczaqkQ==
+        ZTfw3fDGggPv/qRjMziws9gQ282KsQxl+78pVzKdwFn+e1H8AA5WsQ==
+        sGF0YWQCAAAAdHNycGJpbHrzCgAAP1wAAHja7VxrV+K8Fp7zdX5FFg==
+        X8+qtKVAO8uZdwGKN8AL6Kuz/BIgQLRNapuK+utPwqVNgar1VvQ4Hw==
+        Zkm6u/N0Z+fJ3sluQaN5/p8fP34ULn/82PznzrHBLfJ8TMnvnLah5g==
+        ACI92sdk+Dt32qkrZg74DJI+tClBv3OE5sA/f35uDj0FE595gYMIUw==
+        eqOAXINugO2+QgKni7zfOavEdfWo4/L7uIgLe9cK7vM+rLJqWCXT1A==
+        c2DgQQeNqTe9wuUdeEU9JcRj8Bbc82jUUhYtRJbhd7ke8lFCFww7HA==
+        djsgYB8SoKlAM3+pxV+GCnRVK+X+/PwJgHgaj98MoOsq7N5FE62RVQ==
+        uBTg/zYH+E4Jn8gH/EkVzJDjc5HCTGZRCgg8pqWqXCGBAsrJQSjKhQ==
+        haCNGIqaZo3Jd4MgEM2DPaJXd67vS3/7I+/Iqji+fWjg60Df6v3OyQ==
+        6mSFyjDA8Wv86i1GYz7I1EN9RfytOLSPJsZf/OXjrs3/HkDbR7n8Qg==
+        J/lHepEQwKCP6bJxJVkXCrdgXGJi4ujnKmlZfmIuXJnbao8Iz+2hSg==
+        j+FbxPFDO5gM7bIOrqULfST1BTzkUIYUB96JbsOfeOJy+RUw8uHNSw==
+        TxRd8pONNjFMzA+ii5LH5JddZjOcAB4LkW3mY474iHuWZP/CQ3BACQ==
+        86id0k2TtMzcddy4gpXqsFgdPWgtNj4J/hqV7XanAR+Gb+OuWsxdtQ==
+        tXBX9bFesxvvwuqhAnraIU9WFJKUU2/s71dbLh3+rdgNXDmyYNth2g==
+        rfpNUt8klcJpzSRfK6RdTpMVyU7btG4u7sd3Z8f91pXV6dSvfLO03w==
+        /Hbab6dN4bS65GqVyejskZTuulKF7KhV1GuZ46uS3t/Fh0en+0g7Lw==
+        /j39umtq8WlHbdTmFmugAQO1ESQE2aGbah/upksIT2oSA42WIarZQw==
+        lCa7GzCwAzGJ4G0Uswe4Mwe4AxkChyR/OBis0xh3Yvg6I84kI2r3JQ==
+        I6rW9J/xzZsLgaWc8nagi7YQz861tOFpghaZPWtOoX68dTGsn9Vubg==
+        /ntxcAWpY52+xzIvsyfzgpTkyTj8PoevwWCp+/k14S9LbpCGdh8nXg==
+        a7WXxp3eDpmXUvcJOnsDF39iRi7BYyj0B8TNEtGFuj4QvRCiB4nvUg==
+        H62hHYMQZEDWEJ97O8d3Ru3AkRBumEapxIdbWxeoXgj1BPWo1wcLiA==
+        1wYoPpLCf+QxcER9zDiVrN/w275MQ6DN+DK0hihRDOU26Wc+6MlxwQ==
+        E5GBuJywRn1U0GDIqz1nJS9luLB8vxwo7Fyw3dv7myNVq3ql3cPWQQ==
+        7ZCwNwoU9FigoK9FmlV6Os2q07m56tS7XqfcpRNSVYebAhxh1huF+A==
+        Slb2AH3m9Qibg2wzj3ZRviZOldbJjH03bSjyofC8QbRyDpCHSC+CZw==
+        GGsA0G+GI4xtQTNNPsE/326ZSDEEH4IpPy30+lH0rsk7YU3EpwyhPA==
+        TErH8QlKZKLfPmW7d8Tuq60aHd6MOiXz3LT9995PS58ROjP0MAA9Ww==
+        nHwPsFBU+3V55NEhH2ZQ5w3+ZY06DiWzHy0oNmzBXnh071/uBJiHRw==
+        QOyEG5ehSUCNEsavX9p0zNXfoo0x5IFqz8a8py5mDvSvJ08wbXmfvg==
+        R1jq2glshl17arfpABp5nmL7Ymr1UARKERk+6YsaBH45cN3pX++XGA==
+        F5+TGB+Nw7zuWVtVGcSjbRLS1T3prR++juMmZO+FtYnpm2Fi3AzYGg==
+        JnFndmJiXPyMOUfEgq9ek2IK5noVSWDGdVO25XSjhCQY4yaJkGYShg==
+        bhlWqaxbxWcw02uc/lVDlTBIkY2Vlcbity03p9jqletGKo5bIdC+9w==
+        UydviWpi1VIHg2B4e110W027Tgdj47BPt7/wme56lp8Ui9JQHU1UTQ==
+        uag2F0s59s9QGNvy73qkWbnx6N8dWq71j4Or0eDYeA8vUF8V4H0eJw==
+        iCmYqFRowJQEieXQ6Cw+eGB5aSqJzZkVe7bvQ3hPPMIrGc+Sj6V2bA==
+        2oV2/S6ly6/WEduvOmgUyMk5srSWUxltD/Kth/Ob7W+uW9Fvj6cbEA==
+        iwRXKI0KfDNLdcvqqoPLtNV5SVpkLzls7BzhXY3dVHeH/xoPd4ejwg==
+        2DDX9/hTz+74s5T7WudOa35Si9tyMgo6FDShz0RA933Y9EUOmz7NUQ==
+        6JuciunZnIoVluoHD4O0AfZqHbESb5Q/vbs3q9XirntW9ILt+l65ew==
+        /HWLEAvPKEIMz6Aa2MGidf1K1F4ReX841maIdboQLGM1S8VCqVws6A==
+        X7qc7jvZSqC/hcbZQGwSSpRVF5bP/zWJ5urBw8Oc4Tr7tfNK07qy2g==
+        DTK6b9VdNmo/uMY+3ou9xJLMblNmiy4zxAcYclNN+yqrPpj295ogOg==
+        kfeey3lpgt9nH258zB7lEqBapd2WjteRh2jWkM4SM4OyKk4lVV3PBg==
+        WD3u8yEsvVQW78poRjawqnNYVej7Mj0VdFOzLLOUDaxOVBKBurY8jA==
+        pbKuFz8M2OolJ3G5WbHULAZ5phzl1UCV3sUI8Mjcbz5cNG8OrH16Xw==
+        Uz1a62k34zchwL3WXmeNyU8zXsp+2jf7zdmPhvsNLeo50F4Rd5QLBQ==
+        PrHLGdFgNRzEqodtG0PCns4/P4ZyugmckxGeqp9AzZpVLHMGtMoZ2Q==
+        qRer+qsF0jbMRsEyNR7XaoWMsLWlWjqu0Kag7SIkvw1ULujFErdeVg==
+        CLfYIsItxEPdrJlj9yFMWOj40f2/jyGykCbOoIdhL+vJ2B6GRA+Hjw==
+        VnN8CJwT34328Hy+8soloxuC363sXLyKYchcGMrMZRUnuMrW54zdTA==
+        OXZrQtYboT6owS4miMWCuAPt/L4JNQtZO8H1qGrVWu72tfEmQdw8ZA==
+        TFPe/jly2Ixm9tMbXiVTnRzyZZShhcttzaO+P4BybfOGXjb1j9tGWg==
+        whZO9Ar2ZIuJQzg+zzNKHvmUDG02n50zbHpG65mflChon5MK9bJEhQ==
+        bdfDZAhOEKeLbowIW82LE51u7TxotcAg7bvjkU6Q+v+QzZqfjAY7Tg==
+        FFCIYQQdHCNB3TItsWGdUUzxLwon0L9ITjiKpqqJwjQzo7hw4voNRA==
+        hiKEj02HeWPWsWLiDl9GiUZ0QD4GW9Bxua2yR9WYo9rFw9H6wMLN+A==
+        50Fi1e7qp1g6NvOrj4Y287PPQU6/DekhaIuPSPamn4nqd1d8GBIiGw==
+        3of1YxM5W9R2y5+FnLUz6A0RA75N2aRAlNHh0EZLb1atFNfSietxcQ==
+        7QnxQjpxI514MZ14aVE8tghO5CejDxCB3Vnh/VS0IGnOx1Q/2mH5xQ==
+        Heov69BMZxArnbiW1rVS+paW5Fyb+dlkmP3klwMeHPH5wmcOJgTFPw==
+        7zqbMQT1hMik5HLS5kDm8Znp0bEf/xhraO3NKWesmJZGbjk2VHjswA==
+        /7cxz6TIPCxaaIuXdWxGsJQ+ZBBI36CN0dDMLlFX0cvkERcowmyTKw==
+        Zi7mQvBOCeMr8WlbJeRQMFU8iyrFu6TzhtkXdrXFmDGG962eZPbK5A==
+        qkexXvYoHTejR5l9EGjVowh/fsmzuPYLn0Vepxb8MBTxCXT9EWXy8g==
+        FrZNPDj8lTBJRD8LWjbzCxNn1jyivlgxGXXms3Uxc5Dm1UxO2CsSAQ==
+        0d2hMfRC7A2cpCqKfHrNakxx0unkCxRrcchJmeILNOtmTHPSZlzIpA==
+        S0MyDU+WIpJpoMK7hcLD8tOfvB+BicddYEA9x4EEDgWIsGjuZ1RXRA==
+        vT4SqQGnYj4tJs6a/zOJgxY/8v3n5/8ABLa20mF0YWQCAAAARE5TUw==
+        YmlsehYAAAAQAAAAeNpjYmBg0PX00zVxz/QDMhkAEZ0CJg==
+      >
+      FLOATPOS 23 23 391 249
+      FXID {50CBC53D-23F0-41F7-9D4A-0C62A5941598}
+      WAK 0
+    >
+    <ITEM
+      POSITION 88.15384615384616
+      SNAPOFFS 0.00000000000000
+      LENGTH 53.07692307692307
+      LOOP 1
+      ALLTAKES 0
+      SEL 0
+      FADEIN 1 0.010000 0.000000
+      FADEOUT 1 0.010000 0.000000
+      MUTE 0
+      IGUID {B1A0447B-5EC9-436A-9294-BE55007689C5}
+      NAME "06-160110_1715.wav"
+      VOLPAN 1.000000 0.000000 1.000000 -1.000000
+      SOFFS 2.30770102912960
+      PLAYRATE 1.00000000000000 1 0.00000000000000 -1
+      CHANMODE 0
+      GUID {6E52F152-607A-4D89-A893-C30B2EFA7CEC}
+      RECPASS 17
+      <SOURCE WAVE
+        FILE "06-160110_1715.wav"
+      >
+    >
+  >
+>
