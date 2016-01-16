@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.111/x64" 1452958460
+<REAPER_PROJECT 0.1 "5.111/x64" 1452959499
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -11,7 +11,7 @@
   MAXPROJLEN 0 600
   GRID 3199 8 1 8 1 0 0
   TIMEMODE 1 0 -1 24 2
-  CURSOR 36.92307692307692
+  CURSOR 161.30769230769232
   ZOOM 6.49054715188746 0 0
   VZOOMEX 6
   USE_REC_CFG 0
@@ -52,8 +52,8 @@
   GLOBAL_AUTO -1
   TEMPO 130 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 1.84615384615385 142.15384615384616
-  SELECTION2 1.84615384615385 142.15384615384616
+  SELECTION 142.46153846153845 208.92307692307693
+  SELECTION2 142.46153846153845 208.92307692307693
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0
   MASTERPEAKCOL 16576
@@ -71,8 +71,8 @@
     DOCKED 0
     BYPASS 0 0 0
     <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729
-      cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAoAAAAAEAAAAAABAAIQAAAAQAAAAAAAAAAQAAAJfvsYt01DpAd/aGDVfPxj9+kxgE
-      Vg7dPwEIAAAAAQAAAB8H9ySGGX1AWQr6ryCF7D8BAAAAAAAAQAEIAAAAAQAAAK1NZks28aJAXzJYBa908D9LN4lBYOXyPwEBAAAAAQAAADZymUJAp6hAqlaHekRG6D+V
+      cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAoAAAAAEAAAAAABAAIQAAAAQAAAAAAAAAAQAAAJjvsYt01DpAd/aGDVfPxj9/kxgE
+      Vg7dPwEIAAAAAQAAAB8H9ySGGX1AXgr6ryCF7D8BAAAAAAAAQAEIAAAAAQAAAK1NZks28aJAXzJYBa908D9LN4lBYOXyPwEBAAAAAQAAADhymUJAp6hAqFaHekRG6D+W
       wvUoXI/0PwEBAAAAAQAAAAAAAAAAAPA/AAAAAAAAEAAAAA==
     >
     FLOATPOS 805 144 721 505
@@ -134,7 +134,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -322,13 +322,13 @@
     <ITEM
       POSITION 1.84615384615385
       SNAPOFFS 0
-      LENGTH 138.76923076923077
+      LENGTH 172.61538461538461
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {A092D0ED-C808-4DED-9209-0BF74CC3C415}
       IID 1
       NAME "untitled MIDI item"
@@ -1770,84 +1770,136 @@
         E 0 80 35 00
         E 320 90 26 7f
         E 160 80 26 00
-        e 320 90 1e 7f
-        e 0 90 22 7f
-        e 160 80 1e 00
-        e 0 80 22 00
-        e 800 90 1a 7f
-        e 160 80 1a 00
-        e 320 90 22 7f
+        E 320 90 1e 7f
+        E 0 90 22 7f
+        E 160 80 1e 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 22 7f
+        E 160 80 1a 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 1d 7f
+        E 0 90 22 7f
+        E 160 80 1d 00
+        E 0 80 22 00
+        E 800 90 1e 7f
+        E 0 90 22 7f
+        E 160 80 1e 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 22 7f
+        E 160 80 1a 00
+        E 0 80 22 00
+        E 800 90 1a 7f
+        E 160 80 1a 00
+        E 320 90 22 7f
+        E 160 80 22 00
+        E 320 90 1a 7f
+        E 0 90 26 7f
+        E 160 80 1a 00
+        E 0 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 34720 90 20 60
+        E 160 80 20 00
+        E 1440 90 1e 60
+        E 160 80 1e 00
+        E 1760 90 2b 60
+        E 160 80 2b 00
+        E 0 90 26 60
+        E 800 80 26 00
+        E 1280 90 1f 60
+        E 160 80 1f 00
+        E 1440 90 2d 60
+        E 160 80 2d 00
+        E 640 90 25 60
+        E 160 80 25 00
+        e 960 90 22 60
         e 160 80 22 00
-        e 320 90 1a 7f
-        e 0 90 26 7f
-        e 160 80 1a 00
-        e 0 80 26 00
-        e 800 90 1a 7f
-        e 160 80 1a 00
-        e 320 90 22 7f
-        e 160 80 22 00
-        e 320 90 1a 7f
-        e 0 90 22 7f
-        e 160 80 1a 00
-        e 0 80 22 00
-        e 800 90 1a 7f
-        e 160 80 1a 00
-        e 320 90 22 7f
-        e 160 80 22 00
-        e 320 90 1a 7f
-        e 0 90 26 7f
-        e 160 80 1a 00
-        e 0 80 26 00
-        e 320 90 26 7f
-        e 160 80 26 00
-        e 320 90 1d 7f
-        e 0 90 22 7f
-        e 160 80 1d 00
-        e 0 80 22 00
-        e 800 90 1e 7f
-        e 0 90 22 7f
-        e 160 80 1e 00
-        e 0 80 22 00
-        e 800 90 1a 7f
-        e 160 80 1a 00
-        e 320 90 22 7f
-        e 160 80 22 00
-        e 320 90 1a 7f
-        e 0 90 26 7f
-        e 160 80 1a 00
-        e 0 80 26 00
-        e 800 90 1a 7f
-        e 160 80 1a 00
-        e 320 90 22 7f
-        e 160 80 22 00
-        e 320 90 1a 7f
-        e 0 90 22 7f
-        e 160 80 1a 00
-        e 0 80 22 00
-        e 800 90 1a 7f
-        e 160 80 1a 00
-        e 320 90 22 7f
-        e 160 80 22 00
-        e 320 90 1a 7f
-        e 0 90 26 7f
-        e 160 80 1a 00
-        e 0 80 26 00
-        e 320 90 26 7f
-        e 160 80 26 00
-        e 320 90 26 7f
-        e 160 80 26 00
-        e 320 90 26 7f
-        e 160 80 26 00
-        E 78880 b0 7b 00
+        E 640 90 23 60
+        E 160 80 23 00
+        E 0 90 1e 60
+        E 160 80 1e 00
+        E 320 90 1d 60
+        E 284 80 1d 00
+        E 676 90 28 60
+        E 502 80 28 00 -262
+        E 778 90 1e 60
+        E 160 80 1e 00
+        E 4160 90 29 60
+        E 400 80 29 00 -130
+        E 400 90 21 60
+        E 160 80 21 00
+        E 3040 90 22 60
+        E 160 80 22 00
+        E 640 90 25 60
+        E 160 80 25 00
+        E 1280 90 24 60
+        E 160 80 24 00
+        E 1280 90 2a 60
+        E 800 80 2a 00
+        E 320 90 25 60
+        E 160 80 25 00
+        E 800 90 23 60
+        E 160 80 23 00
+        E 160 90 2e 60
+        E 160 80 2e 00
+        E 1280 90 1e 60
+        E 160 80 1e 00
+        E 640 90 2b 60
+        E 160 80 2b 00
+        E 0 90 2b 60
+        E 227 80 2b 00
+        E 1853 90 27 60
+        E 160 80 27 00
+        E 12160 b0 7b 00
         GUID {F78B76DD-9C8A-487D-AF31-794D687B1720}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 0
         VELLANE -1 104 0
-        CFGEDITVIEW 72119.118367 0.042616 70 12 0 0 0 0 0
+        CFGEDITVIEW 278593.304188 0.007638 70 12 0 0 0 0 0
         KEYSNAP 0 0 102034050607 0 Major
         TRACKSEL 0 0 0 ""
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.16666667 365 122 1619 923 0 0 0 0 0.16666667 0 0 0 0 0.75 1 0 1 64
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.16666667 211 70 1465 786 0 0 0 0 0 0 0 0 0 0.75 1 0 1 64
       >
     >
   >
@@ -1880,8 +1932,8 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729
-        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAoAAAAAEAAAAAABAAIQAAAAQAAAAAAAAAAQAAAChFhcQJvExA38GZSuv5tz9C4XoU
-        rkfZPwEIAAAAAQAAAN9yWxrH6nlAYR+WqDZo4T8s3SQGgZXTPwEIAAAAAQAAAME1WgbwZYZAP/jO2YaZ4D8dL90kBoHVPwEBAAAAAQAAAO1pONIjDLdA6///////7z8A
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAoAAAAAEAAAAAABAAIQAAAAQAAAAAAAAAAQAAACJFhcQJvExA38GZSuv5tz9B4XoU
+        rkfZPwEIAAAAAQAAAN9yWxrH6nlAYR+WqDZo4T8s3SQGgZXTPwEIAAAAAQAAAME1WgbwZYZAP/jO2YaZ4D8fL90kBoHVPwEBAAAAAQAAAO1pONIjDLdA6///////7z8A
         AAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAAAAEAAAAA==
       >
       FLOATPOS 846 287 721 505
@@ -2107,7 +2159,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -2125,7 +2177,7 @@
       BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAoAAAAAEAAAAAABAAIQAAAAQAAAAAAAAAAQAAAOEm4P3uJlVA35G4xiuqvz9gj8L1
-        KFzrPwEIAAAAAQAAANk2pgkY7H1Aj22rAFdM4D9WuB6F61HYPwEIAAAAAQAAAC7lCVKztqFAZPODCtzP4T8/NV66SQzwPwEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8A
+        KFzrPwEIAAAAAQAAAN42pgkY7H1Aj22rAFdM4D9YuB6F61HYPwEIAAAAAQAAAC7lCVKztqFAYfODCtzP4T8/NV66SQzwPwEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8A
         AAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAAAAEAAAAA==
       >
       FLOATPOS 450 168 721 505
